@@ -37,6 +37,7 @@ h2 {
 
 .carousel img {
   height: 300px;
+  width:300px;
   padding: 30px;
   margin: 40px;
   border-radius: 50%;
@@ -50,4 +51,103 @@ h2 {
   .carousel-caption h2 {
     font-size: 2.5vw;
   }
+}
+
+
+/* footer */
+
+footer {
+  background: #03989e;
+  overflow-x: hidden;
+  padding: 5vmin 10vmin;
+}
+
+footer p > span {
+  color: #03989e;
+}
+
+footer p,
+footer span {
+  font-size: small;
+  color: white;
+}
+footer .col-md-5,
+.col-md-4 {
+  margin-bottom: 5vmin;
+}
+
+footer .col-md-5 h3 {
+  font-weight: 700;
+  color: white;
+  letter-spacing: 1px;
+}
+
+footer .col-md-4 h3 {
+  font-weight: 700;
+
+  color: white;
+  letter-spacing: 1px;
+}
+
+footer .col-md-3 h3 {
+  font-weight: 700;
+
+  color: white;
+  letter-spacing: 1px;
+}
+
+footer .column i {
+  padding: 0.6em;
+margin-right: 0.6em;
+  /* margin-right:10px ; */
+  color: white;
+  background-color: rgba(203, 234, 237, 0.1);
+font-size:20px;
+  border-radius: 50%;
+}
+
+footer .contact-info i {
+  padding: 0.6em;
+  color: white;
+  background-color: rgba(203, 234, 237, 0.1);
+  border-radius: 50%;
+  margin-bottom: 2vmin;
+  margin-right: 2vmin;
+}
+
+.card-img {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+/* .card-img{
+  height:100% !important;
+} */
+.reviews{
+  padding: 0 !important;
+}
+
+.page-num{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form-container{
+  background: linear-gradient(to right, #bcddf8, #a7c784);
+  margin-top:30px;
+  padding:30px 50px;
+  border:2px solid #C2E59C;
+  border-radius:20px;
+}
+.form1-container{
+  background: linear-gradient(to right, #e1f1e1, #facaca);
+  
+  margin-top:30px;
+  padding:30px 50px;
+  border:2px solid #C2E59C;
+  border-radius:20px;
+}
+.btn{
+  border-radius:10px;
 }

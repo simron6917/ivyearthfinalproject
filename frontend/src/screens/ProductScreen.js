@@ -83,7 +83,7 @@ const ProductScreen = ({ history, match }) => {
                 <ListGroup.Item>
                   <b>  Description:</b> {product.description}
                 </ListGroup.Item>
-                <ListGroup.Item>
+                {/* <ListGroup.Item>
                 <br />
 <Link to='/product'><Button 
                     
@@ -91,7 +91,7 @@ const ProductScreen = ({ history, match }) => {
                     type='button'>
                         Click here for more flowers ...
                     </Button></Link>
-                </ListGroup.Item>
+                </ListGroup.Item> */}
             </ListGroup>
             </Col>
             <Col md={7}>
@@ -186,7 +186,7 @@ const ProductScreen = ({ history, match }) => {
                     <p>{review.comment}</p>
                   </ListGroup.Item>
                 ))}
-                <ListGroup.Item>
+                <ListGroup.Item className="reviews">
                   <h2>Write a Customer Review</h2>
                   {successProductReview && (
                     <Message variant='success'>

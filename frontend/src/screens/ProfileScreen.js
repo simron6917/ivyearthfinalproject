@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react'
-import { Table, Form, Button, Row, Col } from 'react-bootstrap'
-import { LinkContainer } from 'react-router-bootstrap'
+import { Container, Form, Button, Row, Col } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
 import Message from '../components/Message'
+
 import Loader from '../components/Loader'
 import { getUserDetails, updateUserProfile } from '../actions/userActions'
 import { USER_UPDATE_PROFILE_RESET } from '../constants/userConstants'
+import Header from '../components/Header'
 
 const ProfileScreen = ({ location, history }) => {
   const [name, setName] = useState('')
@@ -53,6 +54,9 @@ const ProfileScreen = ({ location, history }) => {
   }
 
   return (
+    <>
+    <Header/>
+    <Container className="py-3">
     <Row >
       <Col md={4} className=" offset-lg-4 form-container">
         <h2>User Profile</h2>
@@ -163,6 +167,8 @@ const ProfileScreen = ({ location, history }) => {
         )}
       </Col> */}
     </Row>
+    </Container>
+    </>
   )
 }
 

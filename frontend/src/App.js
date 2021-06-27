@@ -1,9 +1,10 @@
 import React from 'react'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
-import { Container } from 'react-bootstrap'
-import Header from './components/Header'
+import { BrowserRouter as Router, Route , Switch} from 'react-router-dom'
+// import { Container } from 'react-bootstrap'
+// import Header from './components/Header'
 import Footer from './components/Footer'
 import HomeScreen from './screens/HomeScreen'
+import LandingScreen from './screens/LandingScreen'
 import AboutScreen from './screens/AboutScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
@@ -18,9 +19,12 @@ import ProductListScreen from './screens/ProductListScreen'
 const App = () => {
   return (
     <Router>
-      <Header />
-      <main className='py-3'>
-        <Container>
+      {/* <Header /> */}
+      <Switch>
+      <Route path='/' component={LandingScreen} exact />
+    
+      <main>
+        {/* <Container> */}
           <Route path='/login' component={LoginScreen} />
           <Route path='/register' component={RegisterScreen} />
           <Route path='/about' component={AboutScreen} />
@@ -48,9 +52,11 @@ const App = () => {
             component={HomeScreen}
             exact
           />
-          <Route path='/' component={HomeScreen} exact />
-        </Container>
+          <Route path='/home' component={HomeScreen} exact />
+
+        {/* </Container> */}
       </main>
+      </Switch>
       <Footer />
     </Router>
   )

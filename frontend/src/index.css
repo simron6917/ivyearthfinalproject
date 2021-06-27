@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
 main {
   min-height: 80vh;
 }
@@ -121,9 +123,6 @@ footer .contact-info i {
   object-fit: cover;
 }
 
-/* .card-img{
-  height:100% !important;
-} */
 .reviews{
   padding: 0 !important;
 }
@@ -134,20 +133,105 @@ footer .contact-info i {
 }
 
 .form-container{
-  background: linear-gradient(to right, #bcddf8, #a7c784);
-  margin-top:30px;
-  padding:30px 50px;
-  border:2px solid #C2E59C;
-  border-radius:20px;
-}
-.form1-container{
-  background: linear-gradient(to right, #e1f1e1, #facaca);
   
   margin-top:30px;
   padding:30px 50px;
-  border:2px solid #C2E59C;
-  border-radius:20px;
+  /* border:2px solid black; */
+  box-shadow: 0px 1px 12px 0px grey;
+  /* border-radius:20px; */
 }
 .btn{
   border-radius:10px;
+}
+
+
+/* landing page */
+.landing-navbar{
+  height:70px !important;
+  background: rgb(5, 33, 41) !important;
+
+}
+.navbar-nav .nav-link {
+  color: white;
+  padding-top: 0.8rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #03989e;
+}
+.dark-overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.landing-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 100vh;
+  display:table;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.landing-text {
+  font-family:'Montserrat', sans-serif;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 47%;
+  transform: translate(-48%, -48%);
+  /* color: white !important; */
+}
+.landing-text h1{
+  color:white !important;
+}
+.landing-text h5{
+  color:white !important;
+}
+.landing-button {
+  border-radius: 25px;
+  background-color: teal;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 180px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 20px;
+  border: 1px solid white;
+}
+
+.landing-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+
+}
+
+.landing-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+
+}
+
+.landing-button:hover span {
+  padding-right: 10px;
+
+}
+
+.landing-button:hover span:after {
+  opacity: 1;
+  right: 0;
+  
 }

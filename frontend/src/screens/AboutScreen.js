@@ -1,17 +1,13 @@
  import React from 'react'
-import {Button, Form} from 'react-bootstrap'
-import {Link} from 'react-router-dom'
 import Header from '../components/Header'
-import Footer from '../components/Footer'
 import {Container} from 'react-bootstrap'
 const AboutScreen = () => {
-
-
   return(
     
   
 <>
-<Container>
+<Header />
+<Container className="py-4">
     <div className="container-fluid text-center about-container">
       <div className="row">
         <div className="col-md-12 about-first">

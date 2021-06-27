@@ -1,8 +1,10 @@
 import React, { useEffect } from 'react'
 import { LinkContainer } from 'react-router-bootstrap'
-import { Table, Button, Row, Col } from 'react-bootstrap'
+import { Table, Button, Row, Col, Container } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
 import Message from '../components/Message'
+import Header from '../components/Header'
+
 import Loader from '../components/Loader'
 import Paginate from '../components/Paginate'
 import {
@@ -72,6 +74,8 @@ const ProductListScreen = ({ history, match }) => {
 
   return (
     <>
+    <Header/>
+    <Container className="py-3">
       <Row className='align-items-center'>
         <Col>
           <h1>Plants</h1>
@@ -108,7 +112,7 @@ const ProductListScreen = ({ history, match }) => {
                 <th>PROBLEM SOLVERS</th>
                 <th>SPECIAL FEATURES</th>
 
-                <th></th>
+                {/* <th></th> */}
               </tr>
             </thead>
             <tbody>
@@ -128,20 +132,20 @@ const ProductListScreen = ({ history, match }) => {
                   <td>{product.problem_solvers}</td>
                   <td>{product.special_features}</td>
 
-                  <td>
+                  {/* <td> */}
                     {/* <LinkContainer to={`/admin/product/${product._id}/edit`}>
                       <Button variant='light' className='btn-sm'>
                         <i className='fas fa-edit'></i>
                       </Button>
                     </LinkContainer> */}
-                    <Button
+                    {/* <Button
                       variant='danger'
                       className='btn-sm'
                       onClick={() => deleteHandler(product._id)}
                     >
                       <i className='fas fa-trash'></i>
-                    </Button>
-                  </td>
+                    </Button> */}
+                  {/* </td> */}
                 </tr>
               ))}
             </tbody>
@@ -149,6 +153,7 @@ const ProductListScreen = ({ history, match }) => {
           <Paginate pages={pages} page={page} isAdmin={true} />
         </>
       )}
+    </Container>
     </>
   )
 }

@@ -16,7 +16,7 @@ const LoginScreen = ({ location, history }) => {
   const userLogin = useSelector((state) => state.userLogin)
   const { loading, error, userInfo } = userLogin
 
-  const redirect = location.search ? location.search.split('=')[1] : '/'
+  const redirect = location.search ? location.search.split('=')[1] : '/home'
 
   useEffect(() => {
     if (userInfo) {
@@ -30,6 +30,31 @@ const LoginScreen = ({ location, history }) => {
   }
 
   return (
+    <>
+    <nav className='navbar navbar-expand-lg landing-navbar'>
+        <div className='container'>
+          <Link className='navbar-brand' to='/home' style={{ color: 'white' }}>
+            IvyEarth
+          </Link>
+        
+          <div className='collapse navbar-collapse' id='navbarNav'>
+            <div className='mr-auto'></div>
+            <ul className='navbar-nav'>
+              <li className='nav-item'>
+                <Link className='nav-link' to='/about'>
+                  About Us{' '}
+                </Link>
+              </li>
+              <li className='nav-item'>
+              <i className='fas fa-user' style={{color:'white'}}></i>
+                <Link className='nav-link' to='/login' style={{display:'inline-block'}}>
+                  Sign In{' '}
+                </Link>
+              </li>
+              </ul>
+              </div>
+              </div>
+              </nav>
     <FormContainer >
       <h1>Sign In</h1>
       {error && <Message variant='danger'>{error}</Message>}
@@ -69,6 +94,9 @@ const LoginScreen = ({ location, history }) => {
         </Col>
       </Row>
     </FormContainer>
+    <br/>
+    <br/>
+    </>
   )
 }
 

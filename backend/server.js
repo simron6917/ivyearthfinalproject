@@ -46,6 +46,16 @@ if (process.env.NODE_ENV === 'production') {
 app.use(notFound)
 app.use(errorHandler)
 
+const plant_name = (req, res) => {
+  res.send("Hi!");
+};
+
+app.get("/product/:id",plant_name);
+
+app.post('/product/:id', (req, res) => {
+  console.log(plant_name)
+})
+
 const PORT = process.env.PORT || 5000
 
 app.listen(

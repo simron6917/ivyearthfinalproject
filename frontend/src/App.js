@@ -14,6 +14,10 @@ import ProfileScreen from './screens/ProfileScreen'
 import UserListScreen from './screens/UserListScreen'
 import UserEditScreen from './screens/UserEditScreen'
 import ProductListScreen from './screens/ProductListScreen'
+import RecommendDetailScreen from './screens/RecommendDetailScreen'
+
+import Recommend from './components/Recommend'
+
 // import ProductEditScreen from './screens/ProductEditScreen'
 
 const App = () => {
@@ -44,6 +48,13 @@ const App = () => {
             component={ProductListScreen}
             exact
           />
+          <Route
+            path='/recommend'
+            component={Recommend}
+            exact
+          />
+          <Route path='/recommend/:id' component={RecommendDetailScreen} />
+
           {/* <Route path='/admin/product/:id/edit' component={ProductEditScreen} /> */}
           <Route path='/search/:keyword' component={HomeScreen} exact />
           <Route path='/page/:pageNumber' component={HomeScreen} exact />

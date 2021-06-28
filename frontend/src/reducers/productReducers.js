@@ -23,6 +23,7 @@ import {
   PRODUCT_TOP_REQUEST,
   PRODUCT_TOP_SUCCESS,
   PRODUCT_TOP_FAIL,
+  RECOMMEND_PLANTS
 } from '../constants/productConstants'
 
 export const productListReducer = (state = { products: [] }, action) => {
@@ -125,6 +126,15 @@ export const productTopRatedReducer = (state = { products: [] }, action) => {
       return { loading: false, products: action.payload }
     case PRODUCT_TOP_FAIL:
       return { loading: false, error: action.payload }
+    default:
+      return state
+  }
+}
+
+export const recommendReducer = (state = { recommend: [] }, action) => {
+  switch (action.type) {
+    case RECOMMEND_PLANTS:
+      return { loading: false, recommend: action.payload }
     default:
       return state
   }

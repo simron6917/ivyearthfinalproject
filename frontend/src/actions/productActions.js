@@ -21,6 +21,7 @@ import {
   PRODUCT_TOP_REQUEST,
   PRODUCT_TOP_SUCCESS,
   PRODUCT_TOP_FAIL,
+  RECOMMEND_PLANTS
 } from '../constants/productConstants'
 import { logout } from './userActions'
 
@@ -69,6 +70,46 @@ export const listProductDetails = (id) => async (dispatch) => {
     })
   }
 }
+export const listRecommendProductDetails = (id) => async (dispatch) => {
+  try {
+    dispatch({ type: PRODUCT_DETAILS_REQUEST })
+
+    const { data } = await axios.get(`/api/recommend/${id}`)
+
+    dispatch({
+      type: PRODUCT_DETAILS_SUCCESS,
+      payload: data,
+    })
+  } catch (error) {
+    dispatch({
+      type: PRODUCT_DETAILS_FAIL,
+      payload:
+        error.response && error.response.data.message
+          ? error.response.data.message
+          : error.message,
+    })
+  }
+}
+// export const listRecommendProductDetails = (Plant_Id) => async (dispatch) => {
+//   try {
+//     dispatch({ type: PRODUCT_DETAILS_REQUEST })
+
+//     const { data } = await axios.get(`/api/recommend/${Plant_Id}`)
+
+//     dispatch({
+//       type: PRODUCT_DETAILS_SUCCESS,
+//       payload: data,
+//     })
+//   } catch (error) {
+//     dispatch({
+//       type: PRODUCT_DETAILS_FAIL,
+//       payload:
+//         error.response && error.response.data.message
+//           ? error.response.data.message
+//           : error.message,
+//     })
+//   }
+// }
 
 export const deleteProduct = (id) => async (dispatch, getState) => {
   try {
@@ -244,5 +285,19 @@ export const listTopProducts = () => async (dispatch) => {
           ? error.response.data.message
           : error.message,
     })
+  }
+}
+
+export const recommendProducts = (title) => async (dispatch) => {
+  try {
+
+    const { data } = await axios.get(`https://ivyearth-api.herokuapp.com/plant?title=${title}`)
+    console.log(data);
+    dispatch({
+      type: RECOMMEND_PLANTS,
+      payload: data,
+    })
+  } catch (error) {
+    console.log(error?.message)
   }
 }

@@ -12,6 +12,7 @@ import Meta from '../components/Meta'
 import {
   listProductDetails,
   createProductReview,
+  recommendProducts,
 } from '../actions/productActions'
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
 
@@ -50,6 +51,10 @@ const ProductScreen = ({ history, match }) => {
 
   const addToCartHandler = () => {
     history.push(`/cart/${match.params.id}?qty=${qty}`)
+  }
+  const plantRecommend = () => {
+    dispatch(recommendProducts(product.name))
+    history.push(`/recommend`)
   }
 
   const submitHandler = (e) => {
@@ -159,10 +164,10 @@ const ProductScreen = ({ history, match }) => {
                
                 <ListGroup.Item>
                     <Button 
-                     
+                     onClick={plantRecommend}
                     className='btn-block' 
                     type='button'>
-                        Plant
+                        Recommend More
                     </Button>
                 </ListGroup.Item>
 

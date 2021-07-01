@@ -17,6 +17,8 @@ const RecommendDetailScreen = ({history,match}) => {
 
   const productDetails = useSelector((state) => state.productDetails)
   const { product } = productDetails
+  // const { recommend } = useSelector((state) => state.recommend);
+
 
   const plantRecommend = () => {
     dispatch(recommendProducts(product.name))
@@ -28,13 +30,18 @@ const RecommendDetailScreen = ({history,match}) => {
   }
 
   useEffect(() => {
-    
-    if (!product.id || product.id !== match.params.id) {
+    if (!product._id || product._id !== match.params.id) {
       dispatch(listRecommendProductDetails(match.params.id))
     }
   }, [dispatch, match])
 
-  
+  // useEffect(() => {
+    
+  //   if (!recommend._id || recommend._id !== match.params.id) {
+  //     dispatch(recommendProducts(match.params.id))
+  //   }
+  // }, [dispatch, match])
+
   return (
     <>
       <Header />
@@ -105,7 +112,7 @@ const RecommendDetailScreen = ({history,match}) => {
                 <ListGroup.Item>
                   <Row>
                     <b> Special Features: </b>
-                    <p>{product.special_feature}</p>
+                    <p>{product.special_features}</p>
                   </Row>
                 </ListGroup.Item>
                 <ListGroup.Item>

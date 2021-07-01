@@ -47,7 +47,8 @@ const CartScreen = ({ match, location, history }) => {
                     <Image src={item.image} alt={item.name} fluid rounded />
                   </Col>
                   <Col md={3}>
-                    <Link to={`/product/${item.product}`}>{item.name}</Link>
+                  {item.name.toUpperCase()}
+                    {/* <Link to={`/product/${item.product}`}>{item.name.toUpperCase()}</Link> */}
                   </Col>
                   
                   <Col md={2}>

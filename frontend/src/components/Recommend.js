@@ -21,12 +21,12 @@ const Recommend = () => {
     {recommend.map((product) => (
               <Col key={product.Plant_Id} sm={12} md={6} lg={4} xl={3}>
               <Card className='my-3 p-3 rounded'>
-      <Link to={`/recommend/${product.id}`}>
+      <Link to={`/product/${product.name}`}>
         <Card.Img src={product.image} variant='top' className="card-img" />
       </Link>
 
       <Card.Body>
-        <Link to={`/recommend/${product.id}`}>
+        <Link to={`/product/${product.name}`}>
           <Card.Title as='div'>
             <strong>{product.name}</strong>
           </Card.Title>

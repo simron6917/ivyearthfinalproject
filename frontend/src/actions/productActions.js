@@ -50,12 +50,12 @@ export const listProducts = (keyword = '', pageNumber = '') => async (
   }
 }
 
-export const listProductDetails = (id) => async (dispatch) => {
+export const listProductDetails = (name) => async (dispatch) => {
   try {
     dispatch({ type: PRODUCT_DETAILS_REQUEST })
 
-    const { data } = await axios.get(`/api/products/${id}`)
-
+    const { data } = await axios.get(`/api/products/${name}`)
+    console.log(name)
     dispatch({
       type: PRODUCT_DETAILS_SUCCESS,
       payload: data,

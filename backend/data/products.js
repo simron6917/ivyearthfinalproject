@@ -2,7 +2,7 @@ const products=[
   {
     "web-scraper-order": "1618822494-432",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/african-daisy/",
-    "name": "African Daisy",
+    "name": "african daisy",
     "genus": "Arctotis",
     "type": "Annual",
     "light": "Sun",
@@ -20,7 +20,7 @@ const products=[
   {
     "web-scraper-order": "1618822667-457",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/african-marigold/",
-    "name": "African Marigold",
+    "name": "african marigold",
     "genus": "Tagetes erecta",
     "type": "Annual",
     "light": "Sun",
@@ -38,7 +38,7 @@ const products=[
   {
     "web-scraper-order": "1618822676-461",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/ageratum/",
-    "name": "Ageratum",
+    "name": "ageratum",
     "genus": "Ageratum houstonianum",
     "type": "Annual",
     "light": "Part Sun",
@@ -56,7 +56,7 @@ const products=[
   {
     "web-scraper-order": "1618822439-414",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/angels-trumpet/",
-    "name": "Angels Trumpet",
+    "name": "angels trumpet",
     "genus": "Brugmansia",
     "type": "Annual",
     "light": "Part Sun",
@@ -74,7 +74,7 @@ const products=[
   {
     "web-scraper-order": "1618822458-421",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/annual-statice/",
-    "name": "Annual Statice",
+    "name": "annual statice",
     "genus": "Limonium sinuatum",
     "type": "Annual",
     "light": "Sun",
@@ -92,7 +92,7 @@ const products=[
   {
     "web-scraper-order": "1618822467-422",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/annual-toadflax/",
-    "name": "Annual Toadflax",
+    "name": "annual toadflax",
     "genus": "Linaria",
     "type": "Annual",
     "light": "Part Sun",
@@ -110,7 +110,7 @@ const products=[
   {
     "web-scraper-order": "1618822480-425",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/annual-vinca/",
-    "name": "Annual Vinca",
+    "name": "annual vinca",
     "genus": "Catharanthus roseus",
     "type": "Annual",
     "light": "Sun",
@@ -128,7 +128,7 @@ const products=[
   {
     "web-scraper-order": "1618822450-416",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/bachelors-buttons/",
-    "name": "Bachelors Button",
+    "name": "bachelors button",
     "genus": "Centaurea cyanus",
     "type": "Annual",
     "light": "Part Sun",
@@ -146,7 +146,7 @@ const products=[
   {
     "web-scraper-order": "1618822506-435",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/beefsteak-plant/",
-    "name": "Beefsteak Plant",
+    "name": "beefsteak plant",
     "genus": "Iresine herbstii",
     "type": "Annual",
     "light": "Part Sun",
@@ -164,7 +164,7 @@ const products=[
   {
     "web-scraper-order": "1618822516-436",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/begonia/",
-    "name": "Begonia",
+    "name": "begonia",
     "genus": "Begonia",
     "type": "Annual",
     "light": "Part Sun",
@@ -182,7 +182,7 @@ const products=[
   {
     "web-scraper-order": "1618822525-437",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/bells-of-ireland/",
-    "name": "Bells of Ireland",
+    "name": "bells of ireland",
     "genus": "Moluccella laevis",
     "type": "Annual",
     "light": "Sun",
@@ -200,7 +200,7 @@ const products=[
   {
     "web-scraper-order": "1618822543-439",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/bidens/",
-    "name": "Bidens",
+    "name": "bidens",
     "genus": "Bidens",
     "type": "Annual",
     "light": "Sun",
@@ -218,7 +218,7 @@ const products=[
   {
     "web-scraper-order": "1618822534-438",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/blood-flower/",
-    "name": "Blood Flower",
+    "name": "blood flower",
     "genus": "Asclepias curassavica",
     "type": "Annual",
     "light": "Sun",
@@ -236,7 +236,7 @@ const products=[
   {
     "web-scraper-order": "1618822556-440",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/blue-lobelia/",
-    "name": "Blue Lobelia",
+    "name": "blue lobelia",
     "genus": "Lobelia",
     "type": "Annual",
     "light": "Part Sun",
@@ -254,7 +254,7 @@ const products=[
   {
     "web-scraper-order": "1618822565-441",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/browallia/",
-    "name": "Browallia",
+    "name": "browallia",
     "genus": "Browallia",
     "type": "Annual",
     "light": "Part Sun",
@@ -272,7 +272,7 @@ const products=[
   {
     "web-scraper-order": "1618822575-442",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/bush-morning-glory/",
-    "name": "Bush Morning Glory",
+    "name": "bush morning glory",
     "genus": "Convolvulus tricolor",
     "type": "Annual",
     "light": "Sun",
@@ -290,7 +290,7 @@ const products=[
   {
     "web-scraper-order": "1618822584-443",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/calendula/",
-    "name": "Calendula",
+    "name": "calendula",
     "genus": "Calendula",
     "type": "Annual",
     "light": "Part Sun",
@@ -308,7 +308,7 @@ const products=[
   {
     "web-scraper-order": "1618822601-450",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/calibrachoa/",
-    "name": "Calibrachoa",
+    "name": "calibrachoa",
     "genus": "Calibrachoa",
     "type": "Annual",
     "light": "Sun",
@@ -326,7 +326,7 @@ const products=[
   {
     "web-scraper-order": "1618822592-446",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/california-poppy/",
-    "name": "California Poppy",
+    "name": "california poppy",
     "genus": "Eschscholzia californica",
     "type": "Annual",
     "light": "Sun",
@@ -344,7 +344,7 @@ const products=[
   {
     "web-scraper-order": "1618822612-452",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/calliopsis/",
-    "name": "Calliopsis",
+    "name": "calliopsis",
     "genus": "Coreopsis tinctoria",
     "type": "Annual",
     "light": "Sun",
@@ -362,7 +362,7 @@ const products=[
   {
     "web-scraper-order": "1618822628-453",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/cape-mallow/",
-    "name": "Cape Mallow",
+    "name": "cape mallow",
     "genus": "Anisodontea",
     "type": "Annual",
     "light": "Sun",
@@ -380,7 +380,7 @@ const products=[
   {
     "web-scraper-order": "1618822639-454",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/cardoon/",
-    "name": "Cardoon",
+    "name": "cardoon",
     "genus": "Cynara cardunculus",
     "type": "Annual",
     "light": "Sun",
@@ -398,7 +398,7 @@ const products=[
   {
     "web-scraper-order": "1618822648-455",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/castor-bean/",
-    "name": "Castor Bean",
+    "name": "castor bean",
     "genus": "Ricinus communis",
     "type": "Annual",
     "light": "Sun",
@@ -416,7 +416,7 @@ const products=[
   {
     "web-scraper-order": "1618822658-456",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/catgrass/",
-    "name": "Catgrass",
+    "name": "catgrass",
     "genus": "Avena sativa",
     "type": "Annual",
     "light": "Sun",
@@ -434,7 +434,7 @@ const products=[
   {
     "web-scraper-order": "1618925391-1812",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/annual-phlox/",
-    "name": "Annual Phlox",
+    "name": "annual phlox",
     "genus": "Phlox drumondii",
     "type": "Annual",
     "light": "Sun",
@@ -452,7 +452,7 @@ const products=[
   {
     "web-scraper-order": "1618925584-2072",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/baby-blue-eyes/",
-    "name": "Baby Blue Eyes",
+    "name": "baby blue eyes",
     "genus": "Nemophilia menziesii",
     "type": "Annual",
     "light": "Part Sun",
@@ -470,7 +470,7 @@ const products=[
   {
     "web-scraper-order": "1618925577-2062",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/bacopa/",
-    "name": "Bacopa",
+    "name": "bacopa",
     "genus": "Sutera",
     "type": "Annual",
     "light": "Part Sun",
@@ -488,7 +488,7 @@ const products=[
   {
     "web-scraper-order": "1618925558-2032",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/celosia/",
-    "name": "Celosia",
+    "name": "celosia",
     "genus": "Celosia",
     "type": "Annual",
     "light": "Sun",
@@ -506,7 +506,7 @@ const products=[
   {
     "web-scraper-order": "1618925566-2049",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/centradenia/",
-    "name": "Centradenia",
+    "name": "centradenia",
     "genus": "Centradenia 'Cascade'",
     "type": "Annual",
     "light": "Sun",
@@ -524,7 +524,7 @@ const products=[
   {
     "web-scraper-order": "1618925435-1849",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/shade-edge-coleus/",
-    "name": "Coleus Hybrids",
+    "name": "coleus hybrids",
     "genus": "Solenostemon_ hybrids",
     "type": "Annual",
     "light": "Shade",
@@ -542,7 +542,7 @@ const products=[
   {
     "web-scraper-order": "1618925592-2085",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/balsam/",
-    "name": "Garden Balsam",
+    "name": "garden balsam",
     "genus": "Impatiens balsamina",
     "type": "Annual",
     "light": "Shade",
@@ -560,7 +560,7 @@ const products=[
   {
     "web-scraper-order": "1618925539-1983",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/nemesia/",
-    "name": "Nemesia",
+    "name": "nemesia",
     "genus": "Nemesia",
     "type": "Annual",
     "light": "Part Sun",
@@ -578,7 +578,7 @@ const products=[
   {
     "web-scraper-order": "1618925548-2013",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/new-guinea-impatiens/",
-    "name": "New Guinea Impatiens",
+    "name": "new guinea impatiens",
     "genus": "Impatiens",
     "type": "Annual",
     "light": "Sun",
@@ -596,7 +596,7 @@ const products=[
   {
     "web-scraper-order": "1618925374-1771",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/pentas/",
-    "name": "Pentas",
+    "name": "pentas",
     "genus": "Pentas lanceolata",
     "type": "Annual",
     "light": "Sun",
@@ -614,7 +614,7 @@ const products=[
   {
     "web-scraper-order": "1618925367-1722",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/petunia/",
-    "name": "Petunia",
+    "name": "petunia",
     "genus": "Petunia",
     "type": "Annual",
     "light": "Sun",
@@ -632,7 +632,7 @@ const products=[
   {
     "web-scraper-order": "1618925382-1789",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/plectranthus/",
-    "name": "Plectranthus",
+    "name": "plectranthus",
     "genus": "Plectranthus",
     "type": "Annual",
     "light": "Part Sun",
@@ -650,7 +650,7 @@ const products=[
   {
     "web-scraper-order": "1618925406-1819",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/poppy/",
-    "name": "Poppy Flowers",
+    "name": "poppy flowers",
     "genus": "Papaver_ spp.",
     "type": "Annual",
     "light": "Sun",
@@ -668,7 +668,7 @@ const products=[
   {
     "web-scraper-order": "1618925414-1822",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/salvia/",
-    "name": "Salvia",
+    "name": "salvia",
     "genus": "Salvia",
     "type": "Annual",
     "light": "Sun",
@@ -686,7 +686,7 @@ const products=[
   {
     "web-scraper-order": "1618925425-1837",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/scaevola/",
-    "name": "Scaevola",
+    "name": "scaevola",
     "genus": "Scaevola aemula",
     "type": "Annual",
     "light": "Sun",
@@ -704,7 +704,7 @@ const products=[
   {
     "web-scraper-order": "1618925451-1871",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/shiso/",
-    "name": "Shiso",
+    "name": "shiso",
     "genus": "Perilla",
     "type": "Annual",
     "light": "Part Sun",
@@ -722,7 +722,7 @@ const products=[
   {
     "web-scraper-order": "1618925443-1857",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/snapdragon/",
-    "name": "Snapdragon",
+    "name": "snapdragon",
     "genus": "Antirrhinum majus",
     "type": "Annual",
     "light": "Part Sun",
@@ -740,7 +740,7 @@ const products=[
   {
     "web-scraper-order": "1618925474-1882",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/sweet-potato-vine/",
-    "name": "Sweet Potato Vine",
+    "name": "sweet potato vine",
     "genus": "Ipomoea batatas",
     "type": "Annual",
     "light": "Part Sun",
@@ -758,7 +758,7 @@ const products=[
   {
     "web-scraper-order": "1618925527-1976",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/texas-bluebonnet/",
-    "name": "Texas Bluebonnet",
+    "name": "texas bluebonnet",
     "genus": "Lupinus texensis",
     "type": "Annual",
     "light": "Sun",
@@ -776,7 +776,7 @@ const products=[
   {
     "web-scraper-order": "1618925517-1973",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/texas-yellowstar/",
-    "name": "Texas Yellowstar",
+    "name": "texas yellowstar",
     "genus": "Lindheimera texana",
     "type": "Annual",
     "light": "Sun",
@@ -794,7 +794,7 @@ const products=[
   {
     "web-scraper-order": "1618925461-1876",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/tweedia/",
-    "name": "Tweedia",
+    "name": "tweedia",
     "genus": "Tweedia caerulea",
     "type": "Annual",
     "light": "Part Sun",
@@ -812,7 +812,7 @@ const products=[
   {
     "web-scraper-order": "1618925481-1896",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/verbena/",
-    "name": "Verbena",
+    "name": "verbena",
     "genus": "Verbena",
     "type": "Annual",
     "light": "Sun",
@@ -830,7 +830,7 @@ const products=[
   {
     "web-scraper-order": "1618925489-1934",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/wallflower/",
-    "name": "Wallflower",
+    "name": "wallflower",
     "genus": "Erysimum",
     "type": "Annual",
     "light": "Part Sun",
@@ -848,7 +848,7 @@ const products=[
   {
     "web-scraper-order": "1618925497-1947",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/wishbone-flower/",
-    "name": "Wishbone Flower",
+    "name": "wishbone flower",
     "genus": "Torenia fournieri",
     "type": "Annual",
     "light": "Part Sun",
@@ -866,7 +866,7 @@ const products=[
   {
     "web-scraper-order": "1618925507-1956",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/zinnia/",
-    "name": "Zinnia",
+    "name": "zinnia",
     "genus": "Zinnia",
     "type": "Annual",
     "light": "Sun",
@@ -884,7 +884,7 @@ const products=[
   {
     "web-scraper-order": "1618823281-466",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/agapanthus/",
-    "name": "Agapanthus",
+    "name": "agapanthus",
     "genus": "Agapanthus",
     "type": "Perennial",
     "light": "Part Sun",
@@ -902,7 +902,7 @@ const products=[
   {
     "web-scraper-order": "1618823311-469",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/elephants-ears/",
-    "name": "Elephants Ears",
+    "name": "elephants ears",
     "genus": "Alocasia",
     "type": "Bulb",
     "light": "Part Sun",
@@ -920,7 +920,7 @@ const products=[
   {
     "web-scraper-order": "1618823369-477",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/glory-of-the-snow/",
-    "name": "Glory-of-the-Snow",
+    "name": "glory-of-the-snow",
     "genus": "Chionodoxa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -938,7 +938,7 @@ const products=[
   {
     "web-scraper-order": "1618823292-467",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/elephants-ear/",
-    "name": "Taro",
+    "name": "taro",
     "genus": "Colocasia",
     "type": "Bulb",
     "light": "Sun",
@@ -956,7 +956,7 @@ const products=[
   {
     "web-scraper-order": "1618823272-465",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/crinum-lily/",
-    "name": "Crinum Lily",
+    "name": "crinum lily",
     "genus": "Crinum",
     "type": "Bulb",
     "light": "Part Sun",
@@ -974,7 +974,7 @@ const products=[
   {
     "web-scraper-order": "1618823466-503",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/pineapple-lily/",
-    "name": "Pineapple Lily",
+    "name": "pineapple lily",
     "genus": "Eucomis",
     "type": "Bulb",
     "light": "Part Sun",
@@ -992,7 +992,7 @@ const products=[
   {
     "web-scraper-order": "1618823334-473",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/freesia/",
-    "name": "Freesia",
+    "name": "freesia",
     "genus": "Freesia ssp.",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1010,7 +1010,7 @@ const products=[
   {
     "web-scraper-order": "1618823350-475",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/fritillaria/",
-    "name": "Fritillaria",
+    "name": "fritillaria",
     "genus": "Fritillaria",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1028,7 +1028,7 @@ const products=[
   {
     "web-scraper-order": "1618823344-474",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/gladiolus/",
-    "name": "Gladiolus",
+    "name": "gladiolus",
     "genus": "Gladiolus",
     "type": "Bulb",
     "light": "Sun",
@@ -1046,7 +1046,7 @@ const products=[
   {
     "web-scraper-order": "1618823361-476",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/gloriosa-lily/",
-    "name": "Gloriosa Lily",
+    "name": "gloriosa lily",
     "genus": "Gloriosa superba",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1064,7 +1064,7 @@ const products=[
   {
     "web-scraper-order": "1618823385-479",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/hyacinth/",
-    "name": "Hyacinth",
+    "name": "hyacinth",
     "genus": "Hyacinthus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1082,7 +1082,7 @@ const products=[
   {
     "web-scraper-order": "1618823486-505",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/spring-starflower/",
-    "name": "Spring Starflower",
+    "name": "spring starflower",
     "genus": "Ipheion uniflorum",
     "type": "Bulb",
     "light": "None",
@@ -1100,7 +1100,7 @@ const products=[
   {
     "web-scraper-order": "1618823494-506",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/summer-snowflake/",
-    "name": "Summer Snowflake",
+    "name": "summer snowflake",
     "genus": "Leucojum aestivum",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1118,7 +1118,7 @@ const products=[
   {
     "web-scraper-order": "1618823427-494",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/lily/",
-    "name": "Lily",
+    "name": "lily",
     "genus": "Lilium",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1136,7 +1136,7 @@ const products=[
   {
     "web-scraper-order": "1618823376-478",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/grape-hyacinth/",
-    "name": "Grape Hyacinth",
+    "name": "grape hyacinth",
     "genus": "Muscari",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1154,7 +1154,7 @@ const products=[
   {
     "web-scraper-order": "1618823502-507",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/tazetta-daffodil/",
-    "name": "Daffodil Tazetta Hybrids",
+    "name": "daffodil tazetta hybrids",
     "genus": "Narcissus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1172,7 +1172,7 @@ const products=[
   {
     "web-scraper-order": "1618823408-481",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/jonquil/",
-    "name": "Daffodil Jonquil Hybrids",
+    "name": "daffodil jonquil hybrids",
     "genus": "Narcissus hybrids",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1190,7 +1190,7 @@ const products=[
   {
     "web-scraper-order": "1618823416-482",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/large-cup-daffodil/",
-    "name": "Daffodil Large Cup Hybrids",
+    "name": "daffodil large cup hybrids",
     "genus": "Narcissus hybrids",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1208,7 +1208,7 @@ const products=[
   {
     "web-scraper-order": "1618823477-504",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/poeticus-daffodil/",
-    "name": "Daffodil Poet Types",
+    "name": "daffodil poet types",
     "genus": "Narcissus poeticus_ hybrids",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1226,7 +1226,7 @@ const products=[
   {
     "web-scraper-order": "1618823444-501",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/oxalis/",
-    "name": "Oxalis",
+    "name": "oxalis",
     "genus": "Oxalis",
     "type": "Annual",
     "light": "Part Sun",
@@ -1244,7 +1244,7 @@ const products=[
   {
     "web-scraper-order": "1618823320-472",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/fringed-tulips/",
-    "name": "Tulip Fringed Hybrids",
+    "name": "tulip fringed hybrids",
     "genus": "Tulipa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1262,7 +1262,7 @@ const products=[
   {
     "web-scraper-order": "1618823434-500",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/lily-flowering-tulips/",
-    "name": "Tulip Lily-Flowering Hybrids",
+    "name": "tulip lily-flowering hybrids",
     "genus": "Tulipa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1280,7 +1280,7 @@ const products=[
   {
     "web-scraper-order": "1618823454-502",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/parrot-tulips/",
-    "name": "Tulip Parrot Hybrids",
+    "name": "tulip parrot hybrids",
     "genus": "Tulipa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1298,7 +1298,7 @@ const products=[
   {
     "web-scraper-order": "1618823301-468",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/fosteriana-tulips/",
-    "name": "Tulip Fosteriana Hybrids",
+    "name": "tulip fosteriana hybrids",
     "genus": "Tulipa fosteriana",
     "type": "Bulb",
     "light": "Sun",
@@ -1316,7 +1316,7 @@ const products=[
   {
     "web-scraper-order": "1618823399-480",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/greigii-tulips/",
-    "name": "Tulip Greigii Hybrids",
+    "name": "tulip greigii hybrids",
     "genus": "Tulipa greigii",
     "type": "Bulb",
     "light": "Sun",
@@ -1334,7 +1334,7 @@ const products=[
   {
     "web-scraper-order": "1618825453-584",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/allium/",
-    "name": "Allium",
+    "name": "allium",
     "genus": "Allium",
     "type": "Perennial",
     "light": "Part Sun",
@@ -1352,7 +1352,7 @@ const products=[
   {
     "web-scraper-order": "1618825444-561",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/anemone-bulb/",
-    "name": "Anemone Bulbs",
+    "name": "anemone bulbs",
     "genus": "Anemone",
     "type": "Bulb",
     "light": "Sun",
@@ -1370,7 +1370,7 @@ const products=[
   {
     "web-scraper-order": "1618825470-602",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/caladium/",
-    "name": "Caladium",
+    "name": "caladium",
     "genus": "Caladium",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1388,7 +1388,7 @@ const products=[
   {
     "web-scraper-order": "1618825487-606",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/calla/",
-    "name": "Calla",
+    "name": "calla",
     "genus": "Zantedeschia ssp.",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1406,7 +1406,7 @@ const products=[
   {
     "web-scraper-order": "1618825478-605",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/camassia/",
-    "name": "Camassia",
+    "name": "camassia",
     "genus": "Camassia",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1424,7 +1424,7 @@ const products=[
   {
     "web-scraper-order": "1618825496-609",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/canna/",
-    "name": "Canna",
+    "name": "canna",
     "genus": "Canna",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1442,7 +1442,7 @@ const products=[
   {
     "web-scraper-order": "1618825509-615",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/colchicum/",
-    "name": "Colchicum",
+    "name": "colchicum",
     "genus": "Colchicum",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1460,7 +1460,7 @@ const products=[
   {
     "web-scraper-order": "1618825378-518",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/crocosmia/",
-    "name": "Crocosmia",
+    "name": "crocosmia",
     "genus": "Crocosmia",
     "type": "Bulb",
     "light": "Sun",
@@ -1478,7 +1478,7 @@ const products=[
   {
     "web-scraper-order": "1618825366-515",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/crocus/",
-    "name": "Crocus",
+    "name": "crocus",
     "genus": "Crocus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1496,7 +1496,7 @@ const products=[
   {
     "web-scraper-order": "1618825464-596",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/bulbocodium-daffodil/",
-    "name": "Daffodil Bulbocodium Types",
+    "name": "daffodil bulbocodium types",
     "genus": "Narcissus bulbocodium",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1514,7 +1514,7 @@ const products=[
   {
     "web-scraper-order": "1618825397-535",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/cyclamineus-daffodil/",
-    "name": "Daffodil Cyclamineus Types",
+    "name": "daffodil cyclamineus types",
     "genus": "Narcissus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1532,7 +1532,7 @@ const products=[
   {
     "web-scraper-order": "1618825424-538",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/double-daffodils/",
-    "name": "Daffodil Double Hybrids",
+    "name": "daffodil double hybrids",
     "genus": "Narcissus spp.",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1550,7 +1550,7 @@ const products=[
   {
     "web-scraper-order": "1618825387-528",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/dahlia/",
-    "name": "Dahlia",
+    "name": "dahlia",
     "genus": "Dahlia",
     "type": "Bulb",
     "light": "Sun",
@@ -1568,7 +1568,7 @@ const products=[
   {
     "web-scraper-order": "1618825406-536",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/dogs-tooth-violet/",
-    "name": "Dogs Tooth Violet",
+    "name": "dogs tooth violet",
     "genus": "Erythronium",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1586,7 +1586,7 @@ const products=[
   {
     "web-scraper-order": "1618825357-514",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/endymion/",
-    "name": "Endymion",
+    "name": "endymion",
     "genus": "Endymion hispanicus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1604,7 +1604,7 @@ const products=[
   {
     "web-scraper-order": "1618825293-510",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/eremurus/",
-    "name": "Foxtail Lily",
+    "name": "foxtail lily",
     "genus": "Eremurus",
     "type": "Bulb",
     "light": "Sun",
@@ -1622,7 +1622,7 @@ const products=[
   {
     "web-scraper-order": "1618825276-509",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/leucojum/",
-    "name": "White Violet",
+    "name": "white violet",
     "genus": "Leucojum",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1640,7 +1640,7 @@ const products=[
   {
     "web-scraper-order": "1618825303-511",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/narcissus/",
-    "name": "Narcissus",
+    "name": "narcissus",
     "genus": "Narcissus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1658,7 +1658,7 @@ const products=[
   {
     "web-scraper-order": "1618825268-508",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/ornithogalum/",
-    "name": "Star-of-Bethlehem",
+    "name": "star-of-bethlehem",
     "genus": "Ornithogalum",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1676,7 +1676,7 @@ const products=[
   {
     "web-scraper-order": "1618825414-537",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/darwin-tulips/",
-    "name": "Tulip Darwin Hybrids",
+    "name": "tulip darwin hybrids",
     "genus": "Tulipa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1694,7 +1694,7 @@ const products=[
   {
     "web-scraper-order": "1618825433-551",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/double-tulips/",
-    "name": "Tulip Double Hybrids",
+    "name": "tulip double hybrids",
     "genus": "Tulipa",
     "type": "Bulb",
     "light": "Part Sun",
@@ -1712,7 +1712,7 @@ const products=[
   {
     "web-scraper-order": "1618826469-618",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/apple/",
-    "name": "Apple",
+    "name": "spple",
     "genus": "Malus",
     "type": "Fruit",
     "light": "Sun",
@@ -1730,7 +1730,7 @@ const products=[
   {
     "web-scraper-order": "1618826524-625",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/blackberry/",
-    "name": "Blackberry",
+    "name": "blackberry",
     "genus": "Rubus spp.",
     "type": "Fruit",
     "light": "Part Sun",
@@ -1748,7 +1748,7 @@ const products=[
   {
     "web-scraper-order": "1618826588-668",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/blueberry/",
-    "name": "Blueberry",
+    "name": "blueberry",
     "genus": "Vaccinium",
     "type": "Fruit",
     "light": "Sun",
@@ -1766,7 +1766,7 @@ const products=[
   {
     "web-scraper-order": "1618826576-665",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/sweet-cherry-tart-cherry-pie-cherry-bing-cherry/",
-    "name": "Cherry",
+    "name": "cherry",
     "genus": "Prunus spp.",
     "type": "Fruit",
     "light": "Sun",
@@ -1784,7 +1784,7 @@ const products=[
   {
     "web-scraper-order": "1618826532-628",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/fig/",
-    "name": "Fig",
+    "name": "fig",
     "genus": "Ficus carica",
     "type": "Fruit",
     "light": "Sun",
@@ -1802,7 +1802,7 @@ const products=[
   {
     "web-scraper-order": "1618826492-620",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/fuchsia-flowering-gooseberry/",
-    "name": "Fuchsia Flowering Gooseberry",
+    "name": "fuchsia flowering gooseberry",
     "genus": "Ribes speciosum",
     "type": "Fruit",
     "light": "Part Sun",
@@ -1820,7 +1820,7 @@ const products=[
   {
     "web-scraper-order": "1618826553-637",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/grape/",
-    "name": "Grape",
+    "name": "grape",
     "genus": "Vitis spp.",
     "type": "Fruit",
     "light": "Sun",
@@ -1838,7 +1838,7 @@ const products=[
   {
     "web-scraper-order": "1618826582-667",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/lemon/",
-    "name": "Lemon",
+    "name": "lemon",
     "genus": "Citrus limon",
     "type": "Fruit",
     "light": "Sun",
@@ -1856,7 +1856,7 @@ const products=[
   {
     "web-scraper-order": "1618826458-617",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/lime/",
-    "name": "Lime",
+    "name": "lime",
     "genus": "Citrus aurantiifolia",
     "type": "Fruit",
     "light": "Sun",
@@ -1874,7 +1874,7 @@ const products=[
   {
     "web-scraper-order": "1618826506-621",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/loquat/",
-    "name": "Loquat Tree",
+    "name": "loquat tree",
     "genus": "Eriobotrya japonica",
     "type": "Fruit",
     "light": "Part Sun",
@@ -1892,7 +1892,7 @@ const products=[
   {
     "web-scraper-order": "1618826478-619",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/nectarine/",
-    "name": "Nectarine",
+    "name": "nectarine",
     "genus": "Prunus persica nucipersica",
     "type": "Fruit",
     "light": "Sun",
@@ -1910,7 +1910,7 @@ const products=[
   {
     "web-scraper-order": "1618826598-693",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/orange/",
-    "name": "Orange",
+    "name": "orange",
     "genus": "Citrus spp.",
     "type": "Fruit",
     "light": "Sun",
@@ -1928,7 +1928,7 @@ const products=[
   {
     "web-scraper-order": "1618826541-631",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/peach/",
-    "name": "Peach",
+    "name": "peach",
     "genus": "Prunus perscia",
     "type": "Fruit",
     "light": "Sun",
@@ -1946,7 +1946,7 @@ const products=[
   {
     "web-scraper-order": "1618826443-616",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/pear/",
-    "name": "Pear",
+    "name": "pear",
     "genus": "Pyrus communis",
     "type": "Fruit",
     "light": "Sun",
@@ -1964,7 +1964,7 @@ const products=[
   {
     "web-scraper-order": "1618826516-622",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/plum/",
-    "name": "Plum",
+    "name": "plum",
     "genus": "Prunus_ spp.",
     "type": "Fruit",
     "light": "Sun",
@@ -1982,7 +1982,7 @@ const products=[
   {
     "web-scraper-order": "1618826563-646",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/raspberry/",
-    "name": "Raspberry",
+    "name": "raspberry",
     "genus": "Rubus",
     "type": "Fruit",
     "light": "Sun",
@@ -2000,7 +2000,7 @@ const products=[
   {
     "web-scraper-order": "1618826570-656",
     "url": "https://www.bhg.com/gardening/plant-dictionary/fruit/strawberry/",
-    "name": "Strawberry",
+    "name": "strawberry",
     "genus": "Fragaria spp.",
     "type": "Fruit",
     "light": "Sun",
@@ -2018,7 +2018,7 @@ const products=[
   {
     "web-scraper-order": "1618833363-828",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/basil/",
-    "name": "Basil",
+    "name": "basil",
     "genus": "Ocimum basilicum",
     "type": "Annual",
     "light": "Part Sun",
@@ -2036,7 +2036,7 @@ const products=[
   {
     "web-scraper-order": "1618833373-836",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/bay/",
-    "name": "Bay",
+    "name": "bay",
     "genus": "Laurus nobilis",
     "type": "Perennial",
     "light": "Sun",
@@ -2054,7 +2054,7 @@ const products=[
   {
     "web-scraper-order": "1618833395-841",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/borage/",
-    "name": "Borage",
+    "name": "borage",
     "genus": "Borago officinalis",
     "type": "Annual",
     "light": "Part Sun",
@@ -2072,7 +2072,7 @@ const products=[
   {
     "web-scraper-order": "1618833382-838",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/catnip/",
-    "name": "Catnip",
+    "name": "catnip",
     "genus": "Nepeta cataria",
     "type": "Herb",
     "light": "Part Sun",
@@ -2090,7 +2090,7 @@ const products=[
   {
     "web-scraper-order": "1618833411-850",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/chamomile/",
-    "name": "Chamomile",
+    "name": "chamomile",
     "genus": "Chamaemelum nobile, Matricaria recutita",
     "type": "Annual",
     "light": "Part Sun",
@@ -2108,7 +2108,7 @@ const products=[
   {
     "web-scraper-order": "1618833401-846",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/chervil/",
-    "name": "Chervil",
+    "name": "chervil",
     "genus": "Anthriscus cerefolium",
     "type": "Annual",
     "light": "Part Sun",
@@ -2126,7 +2126,7 @@ const products=[
   {
     "web-scraper-order": "1618833419-855",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/cilantro/",
-    "name": "Cilantro Coriander",
+    "name": "cilantro coriander",
     "genus": "Coriandrum sativum",
     "type": "Annual",
     "light": "Part Sun",
@@ -2144,7 +2144,7 @@ const products=[
   {
     "web-scraper-order": "1618833436-875",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/dill/",
-    "name": "Dill",
+    "name": "dill",
     "genus": "Anethum graveolens",
     "type": "Annual",
     "light": "Sun",
@@ -2162,7 +2162,7 @@ const products=[
   {
     "web-scraper-order": "1618833447-883",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/fennel/",
-    "name": "Fennel",
+    "name": "fennel",
     "genus": "Foeniculum vulgare",
     "type": "Herb",
     "light": "Part Sun",
@@ -2180,7 +2180,7 @@ const products=[
   {
     "web-scraper-order": "1618833470-894",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/garlic-chives/",
-    "name": "Garlic Chives",
+    "name": "garlic chives",
     "genus": "Allium tuberosum",
     "type": "Herb",
     "light": "Sun",
@@ -2198,7 +2198,7 @@ const products=[
   {
     "web-scraper-order": "1618833214-797",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/ginger/",
-    "name": "Ginger Chinese Ginger",
+    "name": "ginger chinese ginger",
     "genus": "Zingiber officinale",
     "type": "Herb",
     "light": "Part Sun",
@@ -2216,7 +2216,7 @@ const products=[
   {
     "web-scraper-order": "1618833224-798",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/horseradish/",
-    "name": "Horseradish",
+    "name": "horseradish",
     "genus": "Armoracia rusticana",
     "type": "Herb",
     "light": "Sun",
@@ -2234,7 +2234,7 @@ const products=[
   {
     "web-scraper-order": "1618833245-806",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/hyssop/",
-    "name": "Hyssop",
+    "name": "hyssop",
     "genus": "Hyssopus officinalis",
     "type": "Herb",
     "light": "Part Sun",
@@ -2252,7 +2252,7 @@ const products=[
   {
     "web-scraper-order": "1618833477-899",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/lemon-balm/",
-    "name": "Lemon Balm",
+    "name": "lemon balm",
     "genus": "Melissa officinalis",
     "type": "Herb",
     "light": "Part Sun",
@@ -2270,7 +2270,7 @@ const products=[
   {
     "web-scraper-order": "1618833235-800",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/lovage/",
-    "name": "Lovage",
+    "name": "lovage",
     "genus": "Levisticum officinale",
     "type": "Herb",
     "light": "None",
@@ -2288,7 +2288,7 @@ const products=[
   {
     "web-scraper-order": "1618833270-810",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/milk-thistle/",
-    "name": "Milk Thistle",
+    "name": "milk thistle",
     "genus": "Silybum marianum",
     "type": "Annual",
     "light": "Part Sun",
@@ -2306,7 +2306,7 @@ const products=[
   {
     "web-scraper-order": "1618833254-809",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/pennyroyal/",
-    "name": "Pennyroyal",
+    "name": "pennyroyal",
     "genus": "Mentha pulegium",
     "type": "Herb",
     "light": "Part Sun",
@@ -2324,7 +2324,7 @@ const products=[
   {
     "web-scraper-order": "1618833353-821",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/saffron/",
-    "name": "Saffron",
+    "name": "saffron",
     "genus": "Crocus sativus",
     "type": "Bulb",
     "light": "Part Sun",
@@ -2342,7 +2342,7 @@ const products=[
   {
     "web-scraper-order": "1618833292-815",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/scented-geranium/",
-    "name": "Scented Geranium",
+    "name": "scented geranium",
     "genus": "Pelargonium",
     "type": "Annual",
     "light": "Part Sun",
@@ -2360,7 +2360,7 @@ const products=[
   {
     "web-scraper-order": "1618833282-811",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/sweet-cicely/",
-    "name": "Sweet Cicely",
+    "name": "sweet cicely",
     "genus": "Myrrhis odorata",
     "type": "Herb",
     "light": "Part Sun",
@@ -2378,7 +2378,7 @@ const products=[
   {
     "web-scraper-order": "1618833320-819",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/sweetgrass/",
-    "name": "Sweet Grass",
+    "name": "sweet grass",
     "genus": "Hierochloe odorata",
     "type": "Herb",
     "light": "Part Sun",
@@ -2396,7 +2396,7 @@ const products=[
   {
     "web-scraper-order": "1618833459-887",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/french-tarragon/",
-    "name": "Tarragon",
+    "name": "tarragon",
     "genus": "Artemisia dracunculus",
     "type": "Perennial",
     "light": "Sun",
@@ -2414,7 +2414,7 @@ const products=[
   {
     "web-scraper-order": "1618833309-818",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/valerian/",
-    "name": "Valerian",
+    "name": "valerian",
     "genus": "Valeriana officinalis",
     "type": "Herb",
     "light": "Part Sun",
@@ -2432,7 +2432,7 @@ const products=[
   {
     "web-scraper-order": "1618833336-820",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/vietnamese-coriander/",
-    "name": "Vietnamese Coriander",
+    "name": "vietnamese coriander",
     "genus": "Persicaria odorata",
     "type": "Herb",
     "light": "Part Sun",
@@ -2450,7 +2450,7 @@ const products=[
   {
     "web-scraper-order": "1618908937-4",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/epazote/",
-    "name": "Epazote",
+    "name": "epazote",
     "genus": "Dysphania ambrosioides",
     "type": "Herb",
     "light": "Part Sun",
@@ -2468,7 +2468,7 @@ const products=[
   {
     "web-scraper-order": "1618908930-3",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/cuban-oregano/",
-    "name": "Cuban Oregano",
+    "name": "cuban oregano",
     "genus": "Plectranthus amboinicus",
     "type": "Herb",
     "light": "Part Sun",
@@ -2486,7 +2486,7 @@ const products=[
   {
     "web-scraper-order": "1618909691-84",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/african-violet/",
-    "name": "African Violet",
+    "name": "african violet",
     "genus": "Saintpaulia ionantha",
     "type": "Houseplant",
     "light": "None",
@@ -2504,7 +2504,7 @@ const products=[
   {
     "web-scraper-order": "1618909648-43",
     "url": "https://www.bhg.com/gardening/plant-dictionary/herb/aloe-vera/",
-    "name": "Aloe Vera",
+    "name": "aloe vera",
     "genus": "Aloe vera",
     "type": "Herb",
     "light": "Sun",
@@ -2522,7 +2522,7 @@ const products=[
   {
     "web-scraper-order": "1618909803-204",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/amaryllis/",
-    "name": "Amaryllis",
+    "name": "amaryllis",
     "genus": "Hippeastrum_ hybrids",
     "type": "Bulb",
     "light": "None",
@@ -2540,7 +2540,7 @@ const products=[
   {
     "web-scraper-order": "1618909736-140",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/asparagus-fern/",
-    "name": "Asparagus Fern",
+    "name": "asparagus fern",
     "genus": "Asparagus",
     "type": "Annual",
     "light": "None",
@@ -2558,7 +2558,7 @@ const products=[
   {
     "web-scraper-order": "1618909795-202",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/black-pepper/",
-    "name": "Black Pepper",
+    "name": "black pepper",
     "genus": "Piper nigrum",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2576,7 +2576,7 @@ const products=[
   {
     "web-scraper-order": "1618909750-146",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/coleus_shade_solid/",
-    "name": "Coleus",
+    "name": "coleus",
     "genus": "Plectranthus scutellarioides",
     "type": "Annual",
     "light": "Shade",
@@ -2594,7 +2594,7 @@ const products=[
   {
     "web-scraper-order": "1618909716-94",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/croton/",
-    "name": "Croton",
+    "name": "croton",
     "genus": "Codiaeum",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2612,7 +2612,7 @@ const products=[
   {
     "web-scraper-order": "1618909730-126",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/dieffenbachia/",
-    "name": "Dieffenbachia",
+    "name": "dieffenbachia",
     "genus": "Dieffenbachia seguine",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2630,7 +2630,7 @@ const products=[
   {
     "web-scraper-order": "1618909724-109",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/dracaena/",
-    "name": "Dracaena",
+    "name": "dracaena",
     "genus": "Dracaena",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2648,7 +2648,7 @@ const products=[
   {
     "web-scraper-order": "1618909635-35",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/english-ivy/",
-    "name": "English Ivy",
+    "name": "english ivy",
     "genus": "Hedera helix",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2666,7 +2666,7 @@ const products=[
   {
     "web-scraper-order": "1618909627-17",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/ficus/",
-    "name": "Ficus",
+    "name": "ficus",
     "genus": "Ficus",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2684,7 +2684,7 @@ const products=[
   {
     "web-scraper-order": "1618909656-51",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/gardenia/",
-    "name": "Gardenia",
+    "name": "gardenia",
     "genus": "Gardenia augusta",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2702,7 +2702,7 @@ const products=[
   {
     "web-scraper-order": "1618909682-65",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/moth-orchid/",
-    "name": "Moth Orchid",
+    "name": "moth orchid",
     "genus": "Phalaenopsis",
     "type": "Houseplant",
     "light": "Sun",
@@ -2720,7 +2720,7 @@ const products=[
   {
     "web-scraper-order": "1618909665-52",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/fittonia/",
-    "name": "Nerve Plant",
+    "name": "nerve plant",
     "genus": "Fittonia spp.",
     "type": "Houseplant",
     "light": "None",
@@ -2738,7 +2738,7 @@ const products=[
   {
     "web-scraper-order": "1618909673-53",
     "url": "https://www.bhg.com/gardening/plant-dictionary/bulb/oxalis/",
-    "name": "Oxalis",
+    "name": "oxalis",
     "genus": "Oxalis",
     "type": "Annual",
     "light": "Part Sun",
@@ -2756,7 +2756,7 @@ const products=[
   {
     "web-scraper-order": "1618909774-170",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/philodendron/",
-    "name": "Philodendron",
+    "name": "philodendron",
     "genus": "Philodendron",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -2774,7 +2774,7 @@ const products=[
   {
     "web-scraper-order": "1618909701-86",
     "url": "https://www.bhg.com/gardening/plant-dictionary/houseplant/zeezee-plant/",
-    "name": "ZZ Plant",
+    "name": "zz plant",
     "genus": "Zamioculcas zamiifolia",
     "type": "Houseplant",
     "light": "None",
@@ -2792,7 +2792,7 @@ const products=[
   {
     "web-scraper-order": "1618910378-211",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bleeding-heart/",
-    "name": "Bleeding Heart",
+    "name": "bleeding heart",
     "genus": "Dicentra",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2810,7 +2810,7 @@ const products=[
   {
     "web-scraper-order": "1618910386-216",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bloodroot/",
-    "name": "Bloodroot",
+    "name": "bloodroot",
     "genus": "Sanguinaria canadensis",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2828,7 +2828,7 @@ const products=[
   {
     "web-scraper-order": "1618910393-218",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blue-bugloss/",
-    "name": "Blue Bugloss",
+    "name": "blue bugloss",
     "genus": "Anchusa",
     "type": "Perennial",
     "light": "Sun",
@@ -2846,7 +2846,7 @@ const products=[
   {
     "web-scraper-order": "1618910409-244",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blue-oatgrass/",
-    "name": "Blue Oat Grass",
+    "name": "blue oat grass",
     "genus": "Helictotrichon sempervirens",
     "type": "Perennial",
     "light": "Sun",
@@ -2864,7 +2864,7 @@ const products=[
   {
     "web-scraper-order": "1618910402-231",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blue-eyed-grass/",
-    "name": "Blue-Eyed Grass",
+    "name": "blue-eyed grass",
     "genus": "Sisyrinchium",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2882,7 +2882,7 @@ const products=[
   {
     "web-scraper-order": "1618910431-261",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/boltonia/",
-    "name": "Boltonia",
+    "name": "boltonia",
     "genus": "Boltonia asteroides",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2900,7 +2900,7 @@ const products=[
   {
     "web-scraper-order": "1618910438-271",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bunchberry/",
-    "name": "Bunchberry",
+    "name": "bunchberry",
     "genus": "Cornus canadensis",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2918,7 +2918,7 @@ const products=[
   {
     "web-scraper-order": "1618910446-273",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/burnet/",
-    "name": "Burnet",
+    "name": "burnet",
     "genus": "Sanguisorba",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2936,7 +2936,7 @@ const products=[
   {
     "web-scraper-order": "1618910588-409",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/chocolate-flower/",
-    "name": "Chocolate Flower",
+    "name": "chocolate flower",
     "genus": "Berlandiera lyrata",
     "type": "Perennial",
     "light": "Part Sun",
@@ -2954,7 +2954,7 @@ const products=[
   {
     "web-scraper-order": "1618910579-402",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/echinocereus-cactus/",
-    "name": "Claret Cup Cactus",
+    "name": "claret cup cactus",
     "genus": "Echinocereus triglochidiatus",
     "type": "Perennial",
     "light": "Sun",
@@ -2972,7 +2972,7 @@ const products=[
   {
     "web-scraper-order": "1618910457-279",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/iris/",
-    "name": "Iris",
+    "name": "iris",
     "genus": "Iris",
     "type": "Perennial",
     "light": "Sun",
@@ -2990,7 +2990,7 @@ const products=[
   {
     "web-scraper-order": "1618910467-295",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/ironweed/",
-    "name": "Ironweed",
+    "name": "ironweed",
     "genus": "Vernonia noveboracensis",
     "type": "Perennial",
     "light": "Sun",
@@ -3008,7 +3008,7 @@ const products=[
   {
     "web-scraper-order": "1618910475-305",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/jack-in-the-pulpit/",
-    "name": "Jack-in-the-Pulpit",
+    "name": "jack-in-the-pulpit",
     "genus": "Arisaema",
     "type": "Bulb",
     "light": "Part Sun",
@@ -3026,7 +3026,7 @@ const products=[
   {
     "web-scraper-order": "1618910484-316",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/jacobs-ladder-2/",
-    "name": "Jacobs Ladder",
+    "name": "jacobs ladder",
     "genus": "Polemonium",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3044,7 +3044,7 @@ const products=[
   {
     "web-scraper-order": "1618910534-389",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/poppy-mallow/",
-    "name": "Poppy Mallow",
+    "name": "poppy mallow",
     "genus": "Callirhoe",
     "type": "Perennial",
     "light": "Sun",
@@ -3062,7 +3062,7 @@ const products=[
   {
     "web-scraper-order": "1618910527-383",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/primrose/",
-    "name": "Primrose",
+    "name": "primrose",
     "genus": "Primula",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3080,7 +3080,7 @@ const products=[
   {
     "web-scraper-order": "1618910549-394",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/purple-moorgrass/",
-    "name": "Purple Moor Grass",
+    "name": "purple moor grass",
     "genus": "Molinia caerulea",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3098,7 +3098,7 @@ const products=[
   {
     "web-scraper-order": "1618910559-397",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/ravennagrass/",
-    "name": "Ravenna Grass Plume Grass",
+    "name": "ravenna grass plume grass",
     "genus": "Saccharum ravennae",
     "type": "Perennial",
     "light": "Sun",
@@ -3116,7 +3116,7 @@ const products=[
   {
     "web-scraper-order": "1618910568-398",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/red-hot-poker/",
-    "name": "Red Hot Poker",
+    "name": "red hot poker",
     "genus": "Kniphofia",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3134,7 +3134,7 @@ const products=[
   {
     "web-scraper-order": "1618910501-335",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/soapwort/",
-    "name": "Soapwort",
+    "name": "soapwort",
     "genus": "Saponaria",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3152,7 +3152,7 @@ const products=[
   {
     "web-scraper-order": "1618910493-324",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/solomons-seal/",
-    "name": "Solomons Seal",
+    "name": "solomons seal",
     "genus": "Polygonatum",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3170,7 +3170,7 @@ const products=[
   {
     "web-scraper-order": "1618910509-354",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/spiderwort/",
-    "name": "Spiderwort",
+    "name": "spiderwort",
     "genus": "Tradescantia",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3188,7 +3188,7 @@ const products=[
   {
     "web-scraper-order": "1618910517-376",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/spurge/",
-    "name": "Spurge",
+    "name": "spurge",
     "genus": "Euphorbia",
     "type": "Annual",
     "light": "Part Sun",
@@ -3206,7 +3206,7 @@ const products=[
   {
     "web-scraper-order": "1618910423-257",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bluebells/",
-    "name": "Virginia Bluebells",
+    "name": "virginia bluebells",
     "genus": "Mertensia virginiana",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3224,7 +3224,7 @@ const products=[
   {
     "web-scraper-order": "1618912201-518",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/hyssop/",
-    "name": "Hyssop Plant",
+    "name": "hyssop plant",
     "genus": "Agastache",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3242,7 +3242,7 @@ const products=[
   {
     "web-scraper-order": "1618912097-470",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/big-bluestem/",
-    "name": "Big Bluestem",
+    "name": "big bluestem",
     "genus": "Andropogon gerardii",
     "type": "Perennial",
     "light": "Sun",
@@ -3260,7 +3260,7 @@ const products=[
   {
     "web-scraper-order": "1618912106-474",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bird-of-paradise/",
-    "name": "Bird of Paradise",
+    "name": "bird of paradise",
     "genus": "Strelitzia",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -3278,7 +3278,7 @@ const products=[
   {
     "web-scraper-order": "1618912116-478",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/bishops-weed/",
-    "name": "Bishops Weed",
+    "name": "bishops weed",
     "genus": "Aegopodium podagraria",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3296,7 +3296,7 @@ const products=[
   {
     "web-scraper-order": "1618912215-560",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/black-eyed-susan/",
-    "name": "Black-Eyed Susan",
+    "name": "black-eyed susan",
     "genus": "Rudbeckia",
     "type": "Annual",
     "light": "Sun",
@@ -3314,7 +3314,7 @@ const products=[
   {
     "web-scraper-order": "1618912219-562",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blackberry-lily/",
-    "name": "Blackberry Lily",
+    "name": "blackberry lily",
     "genus": "Iris domestica",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3332,7 +3332,7 @@ const products=[
   {
     "web-scraper-order": "1618912232-570",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blanket-flower/",
-    "name": "Blanket Flower",
+    "name": "blanket flower",
     "genus": "Gaillardia",
     "type": "Perennial",
     "light": "Sun",
@@ -3350,7 +3350,7 @@ const products=[
   {
     "web-scraper-order": "1618912227-567",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/blazing-star/",
-    "name": "Blazing Star",
+    "name": "blazing star",
     "genus": "Liatris",
     "type": "Perennial",
     "light": "Sun",
@@ -3368,7 +3368,7 @@ const products=[
   {
     "web-scraper-order": "1618912159-500",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/perennial-hibiscus/",
-    "name": "Hardy Hibiscus",
+    "name": "hardy hibiscus",
     "genus": "Hibiscus",
     "type": "Perennial",
     "light": "Sun",
@@ -3386,7 +3386,7 @@ const products=[
   {
     "web-scraper-order": "1618912137-488",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/heart-leaf-brunnera/",
-    "name": "Heartleaf Brunnera",
+    "name": "heartleaf brunnera",
     "genus": "Brunnera macrophylla",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3404,7 +3404,7 @@ const products=[
   {
     "web-scraper-order": "1618912126-482",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/helenium/",
-    "name": "Helenium",
+    "name": "helenium",
     "genus": "Helenium",
     "type": "Perennial",
     "light": "Sun",
@@ -3422,7 +3422,7 @@ const products=[
   {
     "web-scraper-order": "1618912151-490",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/hens-and-chicks/",
-    "name": "Hens and Chicks",
+    "name": "hens and chicks",
     "genus": "Sempervivum",
     "type": "Perennial",
     "light": "Sun",
@@ -3440,7 +3440,7 @@ const products=[
   {
     "web-scraper-order": "1618912169-505",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/holly-fern/",
-    "name": "Holly Fern",
+    "name": "holly fern",
     "genus": "Polystichum",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3458,7 +3458,7 @@ const products=[
   {
     "web-scraper-order": "1618912190-509",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/hollyhock/",
-    "name": "Hollyhock",
+    "name": "hollyhock",
     "genus": "Alcea rosea",
     "type": "Perennial",
     "light": "Sun",
@@ -3476,7 +3476,7 @@ const products=[
   {
     "web-scraper-order": "1618912178-506",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/honesty/",
-    "name": "Honesty",
+    "name": "honesty",
     "genus": "Lunaria annua",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3494,7 +3494,7 @@ const products=[
   {
     "web-scraper-order": "1618912209-519",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/hosta/",
-    "name": "Hosta",
+    "name": "hosta",
     "genus": "Hosta",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3512,7 +3512,7 @@ const products=[
   {
     "web-scraper-order": "1618912005-425",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/marsh-marigold/",
-    "name": "Marsh Marigold",
+    "name": "marsh marigold",
     "genus": "Caltha palustris",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3530,7 +3530,7 @@ const products=[
   {
     "web-scraper-order": "1618912015-426",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/masterwort/",
-    "name": "Masterwort",
+    "name": "masterwort",
     "genus": "Astrantia",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3548,7 +3548,7 @@ const products=[
   {
     "web-scraper-order": "1618912024-427",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/matilija-poppy/",
-    "name": "Matilija Poppy",
+    "name": "matilija poppy",
     "genus": "Romneya coulteri",
     "type": "Perennial",
     "light": "Sun",
@@ -3566,7 +3566,7 @@ const products=[
   {
     "web-scraper-order": "1618912035-428",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/mazus/",
-    "name": "Mazus",
+    "name": "mazus",
     "genus": "Mazus reptans",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3584,7 +3584,7 @@ const products=[
   {
     "web-scraper-order": "1618912056-431",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/meadow-rue/",
-    "name": "Meadow Rue",
+    "name": "meadow rue",
     "genus": "Thalictrum spp.",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3602,7 +3602,7 @@ const products=[
   {
     "web-scraper-order": "1618912076-445",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/miscanthus/",
-    "name": "Miscanthus",
+    "name": "miscanthus",
     "genus": "Miscanthus",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3620,7 +3620,7 @@ const products=[
   {
     "web-scraper-order": "1618912065-435",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/mondo-grass/",
-    "name": "Mondo Grass",
+    "name": "mondo grass",
     "genus": "Ophiopogon",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3638,7 +3638,7 @@ const products=[
   {
     "web-scraper-order": "1618912086-458",
     "url": "https://www.bhg.com/gardening/plant-dictionary/annual/osteospermum/",
-    "name": "Osteospermum",
+    "name": "osteospermum",
     "genus": "Osteospermum",
     "type": "Annual",
     "light": "Part Sun",
@@ -3656,7 +3656,7 @@ const products=[
   {
     "web-scraper-order": "1618912045-429",
     "url": "https://www.bhg.com/gardening/plant-dictionary/perennial/meadowsweet/",
-    "name": "Queen of the Prairie",
+    "name": "queen of the prairie",
     "genus": "Filipendula rubra",
     "type": "Perennial",
     "light": "Part Sun",
@@ -3674,7 +3674,7 @@ const products=[
   {
     "web-scraper-order": "1618912852-584",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/climbing-rose/",
-    "name": "Climbing Rose",
+    "name": "climbing rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Sun",
@@ -3689,14 +3689,15 @@ const products=[
     "special_features": "Attracts Birds",
     "care_must_knows": "Regular deadheading of the flowers can help to encourage continuous blooms on your climbing roses. If you decide to prune your plants in winter before the initial bloom, you can increase the amount of blooms you get later on."
   },
+ 
   {
     "web-scraper-order": "1618912907-638",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/english-rose/",
-    "name": "English Rose",
+    "name": "english rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "English roses are some of the most fragrant blossoms available, and they’re now seeing a surge in popularity. Their double blossoms are a cross between old-fashioned roses and modern ones, bringing back the sweet fragrance along with new, lush colors.",
+    "description": "English roses are some of the most fragrant blossoms available, and they're now seeing a surge in popularity. Their double blossoms are a cross between old-fashioned roses and modern ones, bringing back the sweet fragrance along with new, lush colors.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2015%2F06%2F16022738%2F100851850.jpg&q=85",
     "propagation": "Layering",
     "height": "1 to 3 feet",
@@ -3710,7 +3711,7 @@ const products=[
   {
     "web-scraper-order": "1618912858-594",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/floribunda-rose/",
-    "name": "Floribunda Rose",
+    "name": "floribunda rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Sun",
@@ -3728,11 +3729,11 @@ const products=[
   {
     "web-scraper-order": "1618912872-605",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/grandiflora-rose/",
-    "name": "Grandiflora Rose",
+    "name": "grandiflora rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Sun",
-    "description": "A result of a cross between hybrid tea and floribunda roses, grandiflora-type roses were born of necessity, because the resulting plants didn’t fit in either of the parent categories. Featuring habits of both parents, grandifloras are known for their showy, high-centered blooms similar to their hybrid tea parentage, as well as their taller plant height. From their floribunda parent, grandiflora roses sport multiple blooms per stem, unlike hybrid tea roses. The pioneer of this group of roses was the beautiful ‘Queen Elizabeth’ in 1955.",
+    "description": "A result of a cross between hybrid tea and floribunda roses, grandiflora-type roses were born of necessity, because the resulting plants didn't fit in either of the parent categories. Featuring habits of both parents, grandifloras are known for their showy, high-centered blooms similar to their hybrid tea parentage, as well as their taller plant height. From their floribunda parent, grandiflora roses sport multiple blooms per stem, unlike hybrid tea roses. The pioneer of this group of roses was the beautiful 'Queen Elizabeth' in 1955.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F09%2F24%2Fqueen-elizabeth-rose-afd64b35.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "1 to 3 feet",
@@ -3746,7 +3747,7 @@ const products=[
   {
     "web-scraper-order": "1618912865-600",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/groundcover-rose/",
-    "name": "Groundcover Roses",
+    "name": "groundcover roses",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3764,7 +3765,7 @@ const products=[
   {
     "web-scraper-order": "1618912887-635",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/hybrid-tea-rose/",
-    "name": "Hybrid Tea Rose",
+    "name": "hybrid tea rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Sun",
@@ -3782,7 +3783,7 @@ const products=[
   {
     "web-scraper-order": "1618912895-636",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/miniature-rose/",
-    "name": "Miniature Rose",
+    "name": "miniature rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3800,7 +3801,7 @@ const products=[
   {
     "web-scraper-order": "1618912880-631",
     "url": "https://www.bhg.com/gardening/plant-dictionary/rose/shrub-rose/",
-    "name": "Shrub Rose",
+    "name": "shrub rose",
     "genus": "Rosa",
     "type": "Shrub",
     "light": "Sun",
@@ -3818,11 +3819,11 @@ const products=[
   {
     "web-scraper-order": "1618919369-767",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/arborvitae/",
-    "name": "Arborvitae",
+    "name": "arborvitae",
     "genus": "Thuja",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "These slow-growing trees create dense evergreen foliage that can make excellent “living walls” when privacy is needed in the garden. Some varieties take on a bronze cast in the fall and winter, so be selective when picking an arborvitae variety to plant in your yard. These trees stand up well to trimming and can be made into whimsical topiary plants to create living garden art. Arborvitae have long been used for their various medicinal properties.",
+    "description": "These slow-growing trees create dense evergreen foliage that can make excellent living walls when privacy is needed in the garden. Some varieties take on a bronze cast in the fall and winter, so be selective when picking an arborvitae variety to plant in your yard. These trees stand up well to trimming and can be made into whimsical topiary plants to create living garden art. Arborvitae have long been used for their various medicinal properties.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2019%2F08%2F09151625%2Farborvitae-in-a-row-1c5c0147.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "20 feet or more",
@@ -3836,7 +3837,7 @@ const products=[
   {
     "web-scraper-order": "1618919379-774",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/bamboo-palm/",
-    "name": "Bamboo Palm",
+    "name": "bamboo palm",
     "genus": "Chamaedorea",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -3854,11 +3855,11 @@ const products=[
   {
     "web-scraper-order": "1618919332-716",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/banana-shrub/",
-    "name": "Banana Shrub",
+    "name": "banana shrub",
     "genus": "Magnolia figo",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "Banana shrub sports thick, glossy dark green leaves (similar to those of magnolia) and  flower buds cupped by six petals each that bloom from spring to summer. Its common name refers to the intense bananalike fragrance of those creamy yellow blossoms. This broadleaf evergreen, which has multiple stems and a rounded habit, grows 6 to 10 feet tall and wide if left unpruned. But don’t worry; it tolerates pruning well and is easily maintained at 4 to 5 feet tall.",
+    "description": "Banana shrub sports thick, glossy dark green leaves (similar to those of magnolia) and  flower buds cupped by six petals each that bloom from spring to summer. Its common name refers to the intense bananalike fragrance of those creamy yellow blossoms. This broadleaf evergreen, which has multiple stems and a rounded habit, grows 6 to 10 feet tall and wide if left unpruned. But don't worry; it tolerates pruning well and is easily maintained at 4 to 5 feet tall.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225734%2F101731026.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "3 to 8 feet",
@@ -3872,7 +3873,7 @@ const products=[
   {
     "web-scraper-order": "1618919306-687",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/barberry/",
-    "name": "Barberry",
+    "name": "barberry",
     "genus": "Berberis",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3890,11 +3891,11 @@ const products=[
   {
     "web-scraper-order": "1618919314-702",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/beautyberry/",
-    "name": "Beautyberry",
+    "name": "beautyberry",
     "genus": "Callicarpa",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "Beautyberry produces white or light pink flowers in the summer that make quite a statement in the garden. This shrub gets its name from a gorgeous display of bright purple berries in the fall. The berries hold well into the winter, making a delicious treat for birds. Because beautyberry blooms on new growth, you don’t need to worry about accidentally pruning off flower buds in the fall. Bud hardiness is not an issue.",
+    "description": "Beautyberry produces white or light pink flowers in the summer that make quite a statement in the garden. This shrub gets its name from a gorgeous display of bright purple berries in the fall. The berries hold well into the winter, making a delicious treat for birds. Because beautyberry blooms on new growth, you don't need to worry about accidentally pruning off flower buds in the fall. Bud hardiness is not an issue.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F12%2F03%2Fbeautyberry-callicarpa-bc06a9a9.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -3908,7 +3909,7 @@ const products=[
   {
     "web-scraper-order": "1618919203-641",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/california-flannel-bush/",
-    "name": "California Flannel Bush",
+    "name": "california flannel bush",
     "genus": "Fremontodendron californicum",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3926,7 +3927,7 @@ const products=[
   {
     "web-scraper-order": "1618919283-676",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/chinese-fringe-flower/",
-    "name": "Chinese Fringe Flower",
+    "name": "chinese fringe flower",
     "genus": "Loropetalum chinense",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3944,7 +3945,7 @@ const products=[
   {
     "web-scraper-order": "1618919274-672",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/firecracker-flower/",
-    "name": "Firecracker Flower",
+    "name": "firecracker flower",
     "genus": "Justicia rizzinii",
     "type": "Shrub",
     "light": "Part Sun",
@@ -3962,11 +3963,11 @@ const products=[
   {
     "web-scraper-order": "1618919406-790",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/forsythia/",
-    "name": "Forsythia",
+    "name": "forsythia",
     "genus": "Forsythia",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "Often called a harbinger of spring, forsythia bursts into a vibrant display of bright yellow blooms before any of its foliage emerges. This creates stunning spots of golden color throughout landscapes, breaking up the drab snow-covered ground with a promise of what’s to come. With newer varieties that offer smaller, more manageable sizes, every landscape should have a forsythia to break out of the late winter blahs.",
+    "description": "Often called a harbinger of spring, forsythia bursts into a vibrant display of bright yellow blooms before any of its foliage emerges. This creates stunning spots of golden color throughout landscapes, breaking up the drab snow-covered ground with a promise of what's to come. With newer varieties that offer smaller, more manageable sizes, every landscape should have a forsythia to break out of the late winter blahs.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F02%2Fyellow-forsythia-shrub-a3ec5bae.jpg&q=85",
     "propagation": "Layering",
     "height": "3 to 8 feet",
@@ -3980,11 +3981,11 @@ const products=[
   {
     "web-scraper-order": "1618919214-653",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/grevillea/",
-    "name": "Grevillea",
+    "name": "grevillea",
     "genus": "Grevillea",
     "type": "Shrub",
     "light": "Sun",
-    "description": "Grevilleas are a diverse group of plants. Look around and you’re likely to find everything from ground-hugging evergreen shrubs to stately trees. These plants are related to dramatic proteas and are similarly loved for their intricate and spidery blooms that have a pleasing, sweet fragrance.",
+    "description": "Grevilleas are a diverse group of plants. Look around and you're likely to find everything from ground-hugging evergreen shrubs to stately trees. These plants are related to dramatic proteas and are similarly loved for their intricate and spidery blooms that have a pleasing, sweet fragrance.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230830%2F101736359.jpg&q=85",
     "propagation": "None",
     "height": "3 to 8 feet",
@@ -3993,12 +3994,12 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Drought Tolerant",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Grevillea fililoba has fine, needlelike foliage and spidery clusters of reddish-pink flowers at the ends of the branches. This graceful shrub blooms through out the year. It grows 5 feet tall and wide. Zones 10-11"
+    "care_must_knows": "Grevillea fililoba has fine, needlelike foliage and spidery clusters of reddish-pink flowers at the ends of the branches. This graceful shrub blooms through out the year. It grows 5 feet tall and wide. Zones 10-11"
   },
   {
     "web-scraper-order": "1618919236-664",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/hebe/",
-    "name": "Hebe Shrub",
+    "name": "hebe shrub",
     "genus": "Hebe",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4016,7 +4017,7 @@ const products=[
   {
     "web-scraper-order": "1618919300-681",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/honey-bush/",
-    "name": "Honey Bush",
+    "name": "honey bush",
     "genus": "Melianthus major",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4034,7 +4035,7 @@ const products=[
   {
     "web-scraper-order": "1618919266-671",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/japanese-kerria/",
-    "name": "Japanese Kerria",
+    "name": "japanese kerria",
     "genus": "Kerria japonica",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4052,7 +4053,7 @@ const products=[
   {
     "web-scraper-order": "1618919243-669",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/jerusalem-sage/",
-    "name": "Jerusalem Sage",
+    "name": "jerusalem sage",
     "genus": "Phlomis fruticosa",
     "type": "Perennial",
     "light": "Part Sun",
@@ -4070,11 +4071,11 @@ const products=[
   {
     "web-scraper-order": "1618919291-678",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/leucadendron/",
-    "name": "Leucadendron",
+    "name": "leucadendron",
     "genus": "Leucadendron",
     "type": "Shrub",
     "light": "Sun",
-    "description": "Hailing from South Africa, leucadendron encompasses a large group of plants ranging from 4-foot-tall shrubs to 30-foot-tall trees. They are commonly grown in Zones 9-10 and admired for their colorful flowers and attractive foliage. They’re also low-maintenance plants once established.",
+    "description": "Hailing from South Africa, leucadendron encompasses a large group of plants ranging from 4-foot-tall shrubs to 30-foot-tall trees. They are commonly grown in Zones 9-10 and admired for their colorful flowers and attractive foliage. They're also low-maintenance plants once established.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230727%2F101736395.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -4088,7 +4089,7 @@ const products=[
   {
     "web-scraper-order": "1618919363-746",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/ninebark/",
-    "name": "Ninebark",
+    "name": "ninebark",
     "genus": "Physocarpus",
     "type": "Shrub",
     "light": "Sun",
@@ -4106,11 +4107,11 @@ const products=[
   {
     "web-scraper-order": "1618919357-741",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/oleander/",
-    "name": "Oleander Plant",
+    "name": "oleander plant",
     "genus": "Nerium",
     "type": "Shrub",
     "light": "Sun",
-    "description": "A tough and rugged shrub, oleander makes a sturdy ornamental addition to landscapes in warmer areas (it won't tolerate a hard freeze). It’s versatile and makes a good border, hedge, or screen, as well as a good pick for a potted plant. However, all parts of the shrub are poisonous because of its different types of toxic compounds. So beware and plant accordingly.",
+    "description": "A tough and rugged shrub, oleander makes a sturdy ornamental addition to landscapes in warmer areas (it won't tolerate a hard freeze). It's versatile and makes a good border, hedge, or screen, as well as a good pick for a potted plant. However, all parts of the shrub are poisonous because of its different types of toxic compounds. So beware and plant accordingly.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F03%2Foleander-shrub-74530895.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -4124,7 +4125,7 @@ const products=[
   {
     "web-scraper-order": "1618919414-802",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/firethorn/",
-    "name": "Firethorn",
+    "name": "firethorn",
     "genus": "Pyracantha",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4142,7 +4143,7 @@ const products=[
   {
     "web-scraper-order": "1618919392-785",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/siberian-peashrub/",
-    "name": "Siberian Peashrub",
+    "name": "siberian peashrub",
     "genus": "Caragana arborescens",
     "type": "Shrub",
     "light": "Sun",
@@ -4160,7 +4161,7 @@ const products=[
   {
     "web-scraper-order": "1618919348-728",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/texas-rock-rose/",
-    "name": "Texas Rock Rose",
+    "name": "texas rock rose",
     "genus": "Pavonia lasiopetala",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4178,7 +4179,7 @@ const products=[
   {
     "web-scraper-order": "1618919227-658",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/toyon/",
-    "name": "Toyon Shrub",
+    "name": "toyon shrub",
     "genus": "Heteromeles arbutifolia",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4196,7 +4197,7 @@ const products=[
   {
     "web-scraper-order": "1618919250-670",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/violet-churcu/",
-    "name": "Violet Churcu",
+    "name": "violet churcu",
     "genus": "Iochroma cyaneum",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4214,7 +4215,7 @@ const products=[
   {
     "web-scraper-order": "1618919341-724",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/willow/",
-    "name": "Willow",
+    "name": "willow",
     "genus": "Salix",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4227,12 +4228,12 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "None",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Salix gracilistyla 'Melanostachys' is noted for its deep purple-black catkins in spring that make excellent cut flowers and look stunning on the 6- to 10-foot shrub. Zones 5-7"
+    "care_must_knows": "Salix gracilistyla 'Melanostachys' is noted for its deep purple-black catkins in spring that make excellent cut flowers and look stunning on the 6- to 10-foot shrub. Zones 5-7"
   },
   {
     "web-scraper-order": "1618919400-789",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/wintergreen/",
-    "name": "Wintergreen",
+    "name": "wintergreen",
     "genus": "Gaultheria procumbens",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4250,7 +4251,7 @@ const products=[
   {
     "web-scraper-order": "1618919327-705",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/yellow-bells/",
-    "name": "Yellow Bells",
+    "name": "yellow bells",
     "genus": "Tecoma stans",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4268,11 +4269,11 @@ const products=[
   {
     "web-scraper-order": "1618920048-925",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/bush-poppy/",
-    "name": "Bush Poppy",
+    "name": "bush poppy",
     "genus": "Dendromecon rigida",
     "type": "Shrub",
     "light": "Sun",
-    "description": "Native to California and Baja California, bush poppy (sometimes called tree poppy) is covered with cheerful yellow flowers from spring through early summer. This striking evergreen plant has blue-green, willowlike foliage that takes on a silver sheen in some types of light. to the extent that it languishes in irrigated garden settings, bush poppy is an excellent plant for xeric gardens, rock gardens, hedges, screens, and stabilizing slopes in arid environments. Hardy in Zones 9-11 yet able to tolerate a hard freeze, it is great plant for western North America.",
+    "description": "Native to California and Baja California, bush poppy (sometimes called tree poppy) is covered with cheerful yellow flowers from spring through early summer. This striking evergreen plant has blue-green, willowlike foliage that takes on a silver sheen in some types of light. to the extent that it languishes in irrigated garden settings, bush poppy is an excellent plant for xeric gardens, rock gardens, hedges, screens, and stabilizing slopes in arid environments. Hardy in Zones 9-11 yet able to tolerate a hard freeze, it is great plant for western North America.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230814%2F101736311.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "1 to 3 feet",
@@ -4286,7 +4287,7 @@ const products=[
   {
     "web-scraper-order": "1618919894-819",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/california-bay-laurel/",
-    "name": "California Bay Laurel",
+    "name": "california bay laurel",
     "genus": "Umbellularia californica",
     "type": "Tree",
     "light": "Part Sun",
@@ -4304,7 +4305,7 @@ const products=[
   {
     "web-scraper-order": "1618919987-913",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/canary-island-daisy/",
-    "name": "Canary Island Daisy",
+    "name": "canary island daisy",
     "genus": "Asteriscus sericeus",
     "type": "Perennial",
     "light": "Part Sun",
@@ -4322,7 +4323,7 @@ const products=[
   {
     "web-scraper-order": "1618920018-918",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/coyote-brush/",
-    "name": "Coyote Brush",
+    "name": "coyote brush",
     "genus": "Baccharis pilularis",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4340,7 +4341,7 @@ const products=[
   {
     "web-scraper-order": "1618920006-917",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/fairy-duster/",
-    "name": "Fairy Duster",
+    "name": "fairy duster",
     "genus": "Calliandra eriophylla",
     "type": "Shrub",
     "light": "Sun",
@@ -4358,11 +4359,11 @@ const products=[
   {
     "web-scraper-order": "1618919977-912",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/filbert/",
-    "name": "Filbert Shrub",
+    "name": "filbert shrub",
     "genus": "Corylus",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "Filbert, also called hazelnut, is a fantastic shrub for the back of a border because of its easy-growing nature and tolerance of partial shade. One of the few woody plants in and around prairies, hazelnut spreads slowly to form colonies while providing habitat and food for wildlife. In the spring, filberts produce clusters of bright yellow catkins, making this easy-care plant a great companion for spring-flowering bulbs. By fall, the large round leaves turn yellow or orange before dropping, revealing the shrub’s beautiful branching habit.",
+    "description": "Filbert, also called hazelnut, is a fantastic shrub for the back of a border because of its easy-growing nature and tolerance of partial shade. One of the few woody plants in and around prairies, hazelnut spreads slowly to form colonies while providing habitat and food for wildlife. In the spring, filberts produce clusters of bright yellow catkins, making this easy-care plant a great companion for spring-flowering bulbs. By fall, the large round leaves turn yellow or orange before dropping, revealing the shrub's beautiful branching habit.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225715%2F101073266.jpg&q=85",
     "propagation": "Seed",
     "height": "8 to 20 feet",
@@ -4371,12 +4372,12 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Deer Resistant",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Corylus avellana 'Rosita' develops lovely reddish-purple foliage that matures to a deep purple-green. It grows 12 feet tall and 8 feet wide. Zones 4-8"
+    "care_must_knows": "Corylus avellana 'Rosita' develops lovely reddish-purple foliage that matures to a deep purple-green. It grows 12 feet tall and 8 feet wide. Zones 4-8"
   },
   {
     "web-scraper-order": "1618919856-811",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/germander-shrub/",
-    "name": "Germander Shrub",
+    "name": "germander shrub",
     "genus": "Teucrium fruticans",
     "type": "Shrub",
     "light": "Sun",
@@ -4394,7 +4395,7 @@ const products=[
   {
     "web-scraper-order": "1618920028-919",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/green-cape-fuchsia/",
-    "name": "Green Cape Fuchsia",
+    "name": "green cape fuchsia",
     "genus": "Correa reflexa 'Cape Carpet'",
     "type": "Shrub",
     "light": "None",
@@ -4412,7 +4413,7 @@ const products=[
   {
     "web-scraper-order": "1618920070-927",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/heather/",
-    "name": "Heather Plant",
+    "name": "heather plant",
     "genus": "Erica",
     "type": "Perennial",
     "light": "Part Sun",
@@ -4430,7 +4431,7 @@ const products=[
   {
     "web-scraper-order": "1618920078-930",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/japanese-aralia/",
-    "name": "Japanese Aralia",
+    "name": "japanese aralia",
     "genus": "Fatsia japonica",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4448,7 +4449,7 @@ const products=[
   {
     "web-scraper-order": "1618919996-914",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/manzanita/",
-    "name": "Manzanita",
+    "name": "manzanita",
     "genus": "Arctostaphylos",
     "type": "Perennial",
     "light": "Part Sun",
@@ -4466,7 +4467,7 @@ const products=[
   {
     "web-scraper-order": "1618919876-814",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/myrtle/",
-    "name": "Myrtle Plant",
+    "name": "myrtle plant",
     "genus": "Myrtus communis",
     "type": "Herb",
     "light": "Part Sun",
@@ -4484,7 +4485,7 @@ const products=[
   {
     "web-scraper-order": "1618920060-926",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/paperbush/",
-    "name": "Paperbush Plant",
+    "name": "paperbush plant",
     "genus": "Edgeworthia chrysantha",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4502,7 +4503,7 @@ const products=[
   {
     "web-scraper-order": "1618919931-842",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/potentilla/",
-    "name": "Potentilla",
+    "name": "potentilla",
     "genus": "Potentilla",
     "type": "Shrub",
     "light": "Sun",
@@ -4520,7 +4521,7 @@ const products=[
   {
     "web-scraper-order": "1618919946-879",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/privet/",
-    "name": "Privet",
+    "name": "privet",
     "genus": "Ligustrum",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4538,7 +4539,7 @@ const products=[
   {
     "web-scraper-order": "1618919940-871",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/rhododendron/",
-    "name": "Rhododendron Shrub",
+    "name": "rhododendron shrub",
     "genus": "Rhododendron",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4556,7 +4557,7 @@ const products=[
   {
     "web-scraper-order": "1618919951-886",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/sago-palm/",
-    "name": "Sago Palm",
+    "name": "sago palm",
     "genus": "Cycas revoluta",
     "type": "Houseplant",
     "light": "Part Sun",
@@ -4574,7 +4575,7 @@ const products=[
   {
     "web-scraper-order": "1618919957-893",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/smoke-tree/",
-    "name": "Smoke Tree",
+    "name": "smoke tree",
     "genus": "Cotinus coggygria",
     "type": "Tree",
     "light": "Part Sun",
@@ -4592,11 +4593,11 @@ const products=[
   {
     "web-scraper-order": "1618919965-903",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/spirea/",
-    "name": "Spirea",
+    "name": "spirea",
     "genus": "Spiraea",
     "type": "Shrub",
     "light": "Sun",
-    "description": "This diverse group of flowering shrubs comes in a range of sizes, colors, and forms. Plus they're easy-to-grow plants that are hardy in most regions of the country. Some of the old-fashioned varieties of spirea such as bridal wreath, with its timeless elegance and delicate cascading branches covered in frothy white blooms, have been a landscape favorite for decades. However, these older  varieties can take up a lot of space and look best when not pruned. Newer varieties work well in suburban yards where colors and size are important.",
+    "description": "This diverse group of flowering shrubs comes in a range of sizes, colors, and forms. Plus they're easy-to-grow plants that are hardy in most regions of the country. Some of the old-fashioned varieties of spirea such as bridal wreath, with its timeless elegance and delicate cascading branches covered in frothy white blooms, have been a landscape favorite for decades. However, these older  varieties can take up a lot of space and look best when not pruned. Newer varieties work well in suburban yards where colors and size are important.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F03%2Fwhite-spirea-spiraea-808448f4.jpg&q=85",
     "propagation": "Layering",
     "height": "1 to 3 feet",
@@ -4605,16 +4606,16 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Good For Privacy",
     "special_features": "None",
-    "care_must_knows": "The foliage colors are also much more interesting in this group. Some varieties have orange and gold leaves, often with a purple cast to the bottoms of the leaves, which creates a nice multi-color effect.  Blooms tend to be a bright, glowing pink that pops against the light gold foliage."
+    "care_must_knows": "The foliage colors are also much more interesting in this group. Some varieties have orange and gold leaves, often with a purple cast to the bottoms of the leaves, which creates a nice multi-color effect.  Blooms tend to be a bright, glowing pink that pops against the light gold foliage."
   },
   {
     "web-scraper-order": "1618919885-817",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/st-johns-wort/",
-    "name": "St Johns Wort Plant",
+    "name": "st johns wort plant",
     "genus": "Hypericum spp.",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "A landscape workhorse, St. John’s wort is a champion at providing food and shelter to wildlife—especially pollinators—as well as adding blossoms, colorful foliage, and great texture to entry gardens, foundation plantings, perennial beds, and mixed shrub borders. This North American native all-star shrub is easy to grow and a cinch to incorporate into almost any landscape. You’re sure to delight in its sunny yellow flowers in summer and low-maintenance habit year-round. Seldom browsed by deer and rabbits, it is a great plant for landscape plagued by these munching pests.",
+    "description": "A landscape workhorse, St. John's wort is a champion at providing food and shelter to wildlife—especially pollinators—as well as adding blossoms, colorful foliage, and great texture to entry gardens, foundation plantings, perennial beds, and mixed shrub borders. This North American native all-star shrub is easy to grow and a cinch to incorporate into almost any landscape. You're sure to delight in its sunny yellow flowers in summer and low-maintenance habit year-round. Seldom browsed by deer and rabbits, it is a great plant for landscape plagued by these munching pests.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225517%2F100085701.jpg&q=85",
     "propagation": "Layering",
     "height": "1 to 3 feet",
@@ -4628,11 +4629,11 @@ const products=[
   {
     "web-scraper-order": "1618919903-830",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/sumac/",
-    "name": "Sumac",
+    "name": "sumac",
     "genus": "Rhus",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "Sumac shrubs provide intriguing visuals throughout most of the year, whether they’re growing along roadsides or planted as garden accents. Large flower clusters in spring are followed by brilliantly colored fall foliage in orange, flame red, and burgundy. The flower clusters produce berrylike drupes that turn red in autumn and last well into winter where they serve as tasty snacks for wildlife.",
+    "description": "Sumac shrubs provide intriguing visuals throughout most of the year, whether they're growing along roadsides or planted as garden accents. Large flower clusters in spring are followed by brilliantly colored fall foliage in orange, flame red, and burgundy. The flower clusters produce berrylike drupes that turn red in autumn and last well into winter where they serve as tasty snacks for wildlife.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F12%2F03%2Fsmooth-sumac-b65fcdd8.jpg&q=85",
     "propagation": "Division",
     "height": "3 to 8 feet",
@@ -4646,11 +4647,11 @@ const products=[
   {
     "web-scraper-order": "1618919916-836",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/summersweet/",
-    "name": "Summersweet",
+    "name": "summersweet",
     "genus": "Clethra alnifolia",
     "type": "Shrub",
     "light": "Part Sun",
-    "description": "A North American native, summersweet marks the ending of summer with its fragrant white flowers. It starts blooming in August in many areas and continues the show into fall when the small to medium shrub’s foliage yellows. Hummingbirds and butterflies flock to summersweet blossoms, but deer steer clear, making this a great shrub for locations with a large deer population.",
+    "description": "A North American native, summersweet marks the ending of summer with its fragrant white flowers. It starts blooming in August in many areas and continues the show into fall when the small to medium shrub's foliage yellows. Hummingbirds and butterflies flock to summersweet blossoms, but deer steer clear, making this a great shrub for locations with a large deer population.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2021%2F01%2F08%2Fsummersweet-clethra-alnifolia-a8d157b6.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -4664,7 +4665,7 @@ const products=[
   {
     "web-scraper-order": "1618919866-812",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/texas-mountain-laurel/",
-    "name": "Texas Mountain Laurel",
+    "name": "texas mountain laurel",
     "genus": "Sophora secundiflora",
     "type": "Tree",
     "light": "Sun",
@@ -4682,7 +4683,7 @@ const products=[
   {
     "web-scraper-order": "1618919925-839",
     "url": "https://www.bhg.com/gardening/plant-dictionary/shrub/sweetspire/",
-    "name": "Virginia Sweetspire",
+    "name": "virginia sweetspire",
     "genus": "Itea virginica_ 'Henry's Garnet'",
     "type": "Shrub",
     "light": "Part Sun",
@@ -4700,11 +4701,11 @@ const products=[
   {
     "web-scraper-order": "1618921677-931",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/allspice-michelia/",
-    "name": "Allspice Michelia",
+    "name": "allspice michelia",
     "genus": "Michelia x foggii 'Allspice'",
     "type": "Tree",
     "light": "Part Sun",
-    "description": "Michelia ‘Allspice’ features glossy foliage and highly scented cup-shape flowers that resemble magnolia blooms. It takes a pyramidal form when young but eventually assumes a rounded shape.",
+    "description": "Michelia 'Allspice' features glossy foliage and highly scented cup-shape flowers that resemble magnolia blooms. It takes a pyramidal form when young but eventually assumes a rounded shape.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230517%2F101736427.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "8 to 20 feet",
@@ -4718,11 +4719,11 @@ const products=[
   {
     "web-scraper-order": "1618921712-946",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/black-locust/",
-    "name": "Black Locust",
+    "name": "black locust",
     "genus": "Robinia pseudoacacia",
     "type": "Tree",
     "light": "Part Sun",
-    "description": "A great tree for producing quick coverage, black locust is prized for its rapid growth. Plant a trio of these easy-to-grow trees where you would like to block a view, perhaps of a neighbor’s backyard or a nearby development. At maturity black locust reaches 30 to 40 feet tall and about 20 feet wide, making it a lush and leafy living screen. In many areas, black locust is plagued by internal decay, giving it a weak structure and making it a liability to the property owner. Be sure to consider the liability of black locust before planting.",
+    "description": "A great tree for producing quick coverage, black locust is prized for its rapid growth. Plant a trio of these easy-to-grow trees where you would like to block a view, perhaps of a neighbor's backyard or a nearby development. At maturity black locust reaches 30 to 40 feet tall and about 20 feet wide, making it a lush and leafy living screen. In many areas, black locust is plagued by internal decay, giving it a weak structure and making it a liability to the property owner. Be sure to consider the liability of black locust before planting.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225608%2F101346832.jpg&q=85",
     "propagation": "Grafting",
     "height": "20 feet or more",
@@ -4731,12 +4732,12 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "Drought Tolerant",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Robinia pseudoacacia is the wild form. It's fast growing, offers fragrant white flowers, and reaches 80 feet tall and 50 feet wide at maturity."
+    "care_must_knows": "Robinia pseudoacacia is the wild form. It's fast growing, offers fragrant white flowers, and reaches 80 feet tall and 50 feet wide at maturity."
   },
   {
     "web-scraper-order": "1618921720-953",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/blue-hesper-palm/",
-    "name": "Blue Hesper Palm",
+    "name": "blue hesper palm",
     "genus": "Brahea spp.",
     "type": "Tree",
     "light": "Part Sun",
@@ -4749,12 +4750,12 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Drought Tolerant",
     "special_features": "None",
-    "care_must_knows": "Brahea armata is the bluest of the hesper palms. It is also known as Mexican blue palm. Its creamy-white flower clusters arch out among the foliage creating a spectacular show on mature plants. Blue hesper palm grows 45 feet tall and 20 feet wide. It is hardy to 25 degrees F, so you can grow it in Zones 9-11."
+    "care_must_knows": "Brahea armata is the bluest of the hesper palms. It is also known as Mexican blue palm. Its creamy-white flower clusters arch out among the foliage creating a spectacular show on mature plants. Blue hesper palm grows 45 feet tall and 20 feet wide. It is hardy to 25 degrees F, so you can grow it in Zones 9-11."
   },
   {
     "web-scraper-order": "1618921730-956",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/bradford-pear/",
-    "name": "Bradford Pear Tree",
+    "name": "bradford pear tree",
     "genus": "Pyrus calleryana",
     "type": "Tree",
     "light": "Part Sun",
@@ -4772,7 +4773,7 @@ const products=[
   {
     "web-scraper-order": "1618921688-938",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/california-pepper-tree/",
-    "name": "California Pepper Tree",
+    "name": "california pepper tree",
     "genus": "Schinus molle",
     "type": "Tree",
     "light": "Part Sun",
@@ -4790,7 +4791,7 @@ const products=[
   {
     "web-scraper-order": "1618921739-961",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/cedar/",
-    "name": "Cedar Tree",
+    "name": "cedar tree",
     "genus": "Cedrus",
     "type": "Tree",
     "light": "Part Sun",
@@ -4808,7 +4809,7 @@ const products=[
   {
     "web-scraper-order": "1618921748-966",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/coconut-palm/",
-    "name": "Coconut Palm Tree",
+    "name": "coconut palm tree",
     "genus": "Cocos nucifera",
     "type": "Tree",
     "light": "Sun",
@@ -4826,7 +4827,7 @@ const products=[
   {
     "web-scraper-order": "1618921755-977",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/crabapple/",
-    "name": "Crabapple Tree",
+    "name": "crabapple tree",
     "genus": "Malus",
     "type": "Tree",
     "light": "Sun",
@@ -4844,11 +4845,11 @@ const products=[
   {
     "web-scraper-order": "1618921761-991",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/crape-myrtle/",
-    "name": "Crape Myrtle",
+    "name": "crape myrtle",
     "genus": "Lagerstroemia",
     "type": "Tree",
     "light": "Sun",
-    "description": "Also known as “Lilac of the South” due to its popularity in Zones 7 to 9, crape myrtle is a deciduous shrub or small tree that explodes with white, deep rose, or magenta blossoms from July to September. The mid-summer color show is followed by foliage that turns yellow, orange, and red in fall. The sculptural trunks’ smooth, pinkish-gray bark peels off in winter for additional intrigue. Pick powdery mildew-resistant hybrids such as 'Natchez,' 'Cherokee,' and 'Wichita' for the best performance in humid summer regions. By planting crape myrtles against a warm, sunny wall, colder-climate gardeners can also enjoy this traditional Southeastern favorite. Crape myrtle grows quickly and enjoys a long life span.",
+    "description": "Also known as Lilac of the South due to its popularity in Zones 7 to 9, crape myrtle is a deciduous shrub or small tree that explodes with white, deep rose, or magenta blossoms from July to September. The mid-summer color show is followed by foliage that turns yellow, orange, and red in fall. The sculptural trunks' smooth, pinkish-gray bark peels off in winter for additional intrigue. Pick powdery mildew-resistant hybrids such as 'Natchez,' 'Cherokee,' and 'Wichita' for the best performance in humid summer regions. By planting crape myrtles against a warm, sunny wall, colder-climate gardeners can also enjoy this traditional Southeastern favorite. Crape myrtle grows quickly and enjoys a long life span.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230232%2FTDH718768.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -4857,12 +4858,12 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "None",
     "special_features": "Attracts Birds",
-    "care_must_knows": "Lagerstroemia 'Wichita' grows into a vase-shape shrub or small tree bearing lavender flowers all summer. It grows 12 feet tall and wide. Zones 7-9"
+    "care_must_knows": "Lagerstroemia 'Wichita' grows into a vase-shape shrub or small tree bearing lavender flowers all summer. It grows 12 feet tall and wide. Zones 7-9"
   },
   {
     "web-scraper-order": "1618921780-1007",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/date-palm/",
-    "name": "Date Palm Tree",
+    "name": "date palm tree",
     "genus": "Phoenix spp.",
     "type": "Tree",
     "light": "Sun",
@@ -4880,7 +4881,7 @@ const products=[
   {
     "web-scraper-order": "1618921773-1000",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/dawn-redwood/",
-    "name": "Dawn Redwood Tree",
+    "name": "dawn redwood tree",
     "genus": "Metasequoia glyptostroboides",
     "type": "Tree",
     "light": "Sun",
@@ -4898,7 +4899,7 @@ const products=[
   {
     "web-scraper-order": "1618921788-1024",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/dogwood-tree/",
-    "name": "Dogwood Tree",
+    "name": "dogwood tree",
     "genus": "Cornus",
     "type": "Tree",
     "light": "Part Sun",
@@ -4916,7 +4917,7 @@ const products=[
   {
     "web-scraper-order": "1618921797-1031",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/douglas-fir/",
-    "name": "Douglas Fir",
+    "name": "douglas fir",
     "genus": "Pseudotsuga menziesii",
     "type": "Tree",
     "light": "Sun",
@@ -4934,7 +4935,7 @@ const products=[
   {
     "web-scraper-order": "1618921807-1032",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/elm/",
-    "name": "Elm Tree",
+    "name": "elm tree",
     "genus": "Ulmus",
     "type": "Tree",
     "light": "Sun",
@@ -4952,7 +4953,7 @@ const products=[
   {
     "web-scraper-order": "1618921815-1041",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/eucalyptus/",
-    "name": "Eucalyptus",
+    "name": "eucalyptus",
     "genus": "Eucalyptus",
     "type": "Tree",
     "light": "Sun",
@@ -4970,7 +4971,7 @@ const products=[
   {
     "web-scraper-order": "1618921821-1050",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/false-cypress/",
-    "name": "False Cypress",
+    "name": "false cypress",
     "genus": "Chamaecyparis",
     "type": "Tree",
     "light": "Part Sun",
@@ -4988,7 +4989,7 @@ const products=[
   {
     "web-scraper-order": "1618921837-1055",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/fan-palm/",
-    "name": "Fan Palm Tree",
+    "name": "fan palm tree",
     "genus": "Washingtonia",
     "type": "Tree",
     "light": "Sun",
@@ -5006,7 +5007,7 @@ const products=[
   {
     "web-scraper-order": "1618921855-1077",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/fir/",
-    "name": "Fir",
+    "name": "fir",
     "genus": "Abies",
     "type": "Tree",
     "light": "Sun",
@@ -5019,16 +5020,16 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Groundcover",
     "special_features": "Attracts Birds",
-    "care_must_knows": "This Abies koreana variety is among the most stunning of evergreens. Its green needles have bright white undersides and curve up, giving the tree a flocked look. It grows 30 feet tall and 20 feet wide. Zones 5-7"
+    "care_must_knows": "This Abies koreana variety is among the most stunning of evergreens. Its green needles have bright white undersides and curve up, giving the tree a flocked look. It grows 30 feet tall and 20 feet wide. Zones 5-7"
   },
   {
     "web-scraper-order": "1618921846-1066",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/fishtail-palm/",
-    "name": "Fishtail Palm Tree",
+    "name": "fishtail palm tree",
     "genus": "Caryota sp.",
     "type": "Tree",
     "light": "Part Sun",
-    "description": "Fishtail palm trees feature compound leaves that reach staggeringly large sizes, as does the tree itself. The leaflets of these large leaves, each of which features ragged edges that resemble the back end of a fish,  to the plant and subsequently any room or garden space it is in. Worth noting: Most varieties of clump-forming fishtail palm trees are good outdoor substitutes for invasive bamboo (the world’s fastest-growing plants).",
+    "description": "Fishtail palm trees feature compound leaves that reach staggeringly large sizes, as does the tree itself. The leaflets of these large leaves, each of which features ragged edges that resemble the back end of a fish,  to the plant and subsequently any room or garden space it is in. Worth noting: Most varieties of clump-forming fishtail palm trees are good outdoor substitutes for invasive bamboo (the world's fastest-growing plants).",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F07%2F27%2Ffishtail-palm-leaf-848b2a91.jpg&q=85",
     "propagation": "Seed",
     "height": "8 to 20 feet",
@@ -5037,12 +5038,12 @@ const products=[
     "foliage_color": "Blue/Green",
     "problem_solvers": "Drought Tolerant",
     "special_features": "Low Maintenance",
-    "care_must_knows": "If you decide to give it a go, plant the tree in a pot with enough room to accommodate massive growth. Use a general-purpose potting mix with good drainage, because these trees like it on the drier side. (If you expect your tree to live for years, add pine park, perlite, or other porous drainage material to the soil to make it last longer.) For the most consistent growth, keep your palm tree evenly moist but not wet. Let the soil dry slightly between waterings. Fishtail palm trees also appreciate occasional fertilizing. At a minimum, give your tree a slow-release fertilizer every few months."
+    "care_must_knows": "If you decide to give it a go, plant the tree in a pot with enough room to accommodate massive growth. Use a general-purpose potting mix with good drainage, because these trees like it on the drier side. (If you expect your tree to live for years, add pine park, perlite, or other porous drainage material to the soil to make it last longer.) For the most consistent growth, keep your palm tree evenly moist but not wet. Let the soil dry slightly between waterings. Fishtail palm trees also appreciate occasional fertilizing. At a minimum, give your tree a slow-release fertilizer every few months."
   },
   {
     "web-scraper-order": "1618921870-1100",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/flowering-cherry/",
-    "name": "Flowering Cherry Tree",
+    "name": "flowering cherry tree",
     "genus": "Prunus spp.",
     "type": "Tree",
     "light": "Sun",
@@ -5060,7 +5061,7 @@ const products=[
   {
     "web-scraper-order": "1618921863-1087",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/foxtail-palm/",
-    "name": "Foxtail Palm Tree",
+    "name": "foxtail palm tree",
     "genus": "Wodyetia bifurcata",
     "type": "Tree",
     "light": "Sun",
@@ -5078,7 +5079,7 @@ const products=[
   {
     "web-scraper-order": "1618921888-1114",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/ginkgo/",
-    "name": "Ginkgo Tree",
+    "name": "ginkgo tree",
     "genus": "Ginkgo biloba",
     "type": "Tree",
     "light": "Sun",
@@ -5096,7 +5097,7 @@ const products=[
   {
     "web-scraper-order": "1618921899-1116",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/hemlock/",
-    "name": "Hemlock Tree",
+    "name": "hemlock tree",
     "genus": "Tsuga",
     "type": "Tree",
     "light": "Part Sun",
@@ -5114,7 +5115,7 @@ const products=[
   {
     "web-scraper-order": "1618921699-939",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/purple-tabebuia/",
-    "name": "Purple Tabebuia Tree",
+    "name": "purple tabebuia tree",
     "genus": "Tabebuia impetiginosa",
     "type": "Tree",
     "light": "Part Sun",
@@ -5132,7 +5133,7 @@ const products=[
   {
     "web-scraper-order": "1618922321-1130",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/persimmon/",
-    "name": "American Persimmon Tree",
+    "name": "american persimmon tree",
     "genus": "Diospyros virginiana",
     "type": "Tree",
     "light": "Sun",
@@ -5150,11 +5151,11 @@ const products=[
   {
     "web-scraper-order": "1618922313-1127",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/orchid-tree/",
-    "name": "Anacacho Orchid Tree",
+    "name": "anacacho orchid tree",
     "genus": "Bauhinia lunarioides",
     "type": "Tree",
     "light": "Part Sun",
-    "description": "A small-but-mighty tree, anacacho orchid tree is an all-star focal point plant for foundation planting areas or for anchoring a garden bed. Count on its silver-gray bark to provide interest in winter while its fragrant, white or pink, orchidlike flowers steal the show in spring. Select a multi-stem specimen and enjoy the lovely lines of the limbs of this small tree. Don’t have space for a tree in your planting spot? Choose a shrub version of anacacho orchid.",
+    "description": "A small-but-mighty tree, anacacho orchid tree is an all-star focal point plant for foundation planting areas or for anchoring a garden bed. Count on its silver-gray bark to provide interest in winter while its fragrant, white or pink, orchidlike flowers steal the show in spring. Select a multi-stem specimen and enjoy the lovely lines of the limbs of this small tree. Don't have space for a tree in your planting spot? Choose a shrub version of anacacho orchid.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230604%2F101730953.jpg&q=85",
     "propagation": "Seed",
     "height": "8 to 20 feet",
@@ -5168,11 +5169,11 @@ const products=[
   {
     "web-scraper-order": "1618922415-1186",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/australian-tea-tree/",
-    "name": "Australian Tea Tree",
+    "name": "australian tea tree",
     "genus": "Leptospermum laevigatum",
     "type": "Tree",
     "light": "Sun",
-    "description": "Evergreen foliage and twisted trunks clothed with shaggy, shedding bark all contribute to Australian tea tree’s unique look and texture. Also called Australian myrtle, this tree displays masses of white, roselike flowers in spring. Trim vigorous upright branches for use in mixed bouquets.",
+    "description": "Evergreen foliage and twisted trunks clothed with shaggy, shedding bark all contribute to Australian tea tree's unique look and texture. Also called Australian myrtle, this tree displays masses of white, roselike flowers in spring. Trim vigorous upright branches for use in mixed bouquets.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230215%2F101736394.jpg&q=85",
     "propagation": "Seed",
     "height": "8 to 20 feet",
@@ -5186,7 +5187,7 @@ const products=[
   {
     "web-scraper-order": "1618922301-1123",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/chinese-fringe-tree/",
-    "name": "Chinese Fringe Tree",
+    "name": "chinese fringe tree",
     "genus": "Chionanthus retusus",
     "type": "Tree",
     "light": "Part Sun",
@@ -5204,7 +5205,7 @@ const products=[
   {
     "web-scraper-order": "1618922399-1183",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/loquat/",
-    "name": "Loquat Tree",
+    "name": "loquat tree",
     "genus": "Eriobotrya japonica",
     "type": "Tree",
     "light": "Part Sun",
@@ -5222,11 +5223,11 @@ const products=[
   {
     "web-scraper-order": "1618922338-1140",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/pine/",
-    "name": "Pine Tree",
+    "name": "pine tree",
     "genus": "Pinus spp.",
     "type": "Tree",
     "light": "Sun",
-    "description": "Pines are landscape workhorses. They are a top choice for screening a view or wrapping a patio with lovely green privacy, providing interest along a foundation, or as an eye-catching focal point in the landscape. Look for cultivars ranging from 3-foot-tall shearable foundation specimens to a lofty Australian pine that will stand 60 feet tall at maturity. These hardworking evergreens are particular about their growing environment. Plant them in a location where they will thrive, and you’ll enjoy decades of year-round color while creating a valuable habitat for wildlife.",
+    "description": "Pines are landscape workhorses. They are a top choice for screening a view or wrapping a patio with lovely green privacy, providing interest along a foundation, or as an eye-catching focal point in the landscape. Look for cultivars ranging from 3-foot-tall shearable foundation specimens to a lofty Australian pine that will stand 60 feet tall at maturity. These hardworking evergreens are particular about their growing environment. Plant them in a location where they will thrive, and you'll enjoy decades of year-round color while creating a valuable habitat for wildlife.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230846%2FMPC105894.jpg&q=85",
     "propagation": "Grafting",
     "height": "3 to 8 feet",
@@ -5240,7 +5241,7 @@ const products=[
   {
     "web-scraper-order": "1618922330-1135",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/queen-palm/",
-    "name": "Queen Palm Tree",
+    "name": "queen palm tree",
     "genus": "Syagrus romanzoffiana",
     "type": "Tree",
     "light": "Sun",
@@ -5258,7 +5259,7 @@ const products=[
   {
     "web-scraper-order": "1618922347-1154",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/redbud/",
-    "name": "Redbud Tree",
+    "name": "redbud tree",
     "genus": "Cercis selections",
     "type": "Tree",
     "light": "Part Sun",
@@ -5276,7 +5277,7 @@ const products=[
   {
     "web-scraper-order": "1618922357-1160",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/serviceberry/",
-    "name": "Serviceberry Tree",
+    "name": "serviceberry tree",
     "genus": "Amelanchier",
     "type": "Tree",
     "light": "Part Sun",
@@ -5294,11 +5295,11 @@ const products=[
   {
     "web-scraper-order": "1618922363-1168",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/spruce/",
-    "name": "Spruce Tree",
+    "name": "spruce tree",
     "genus": "Picea",
     "type": "Tree",
     "light": "Sun",
-    "description": "Both graceful and boldly upright, spruce takes on many different shapes in the landscape. Choose an upright cultivar, such as a ‘Columnar’ Norway spruce, and plant as a living screen near a property line. Go with a cultivar with curved branches, such as a ‘Wells’ Weeper’ spruce as a statement plant in a landscape. The evergreen character of these small-to-large trees makes them year-round contributors to the landscape. Garden in a small space? Select a dwarf cultivar or a shrub cultivar.",
+    "description": "Both graceful and boldly upright, spruce takes on many different shapes in the landscape. Choose an upright cultivar, such as a 'Columnar' Norway spruce, and plant as a living screen near a property line. Go with a cultivar with curved branches, such as a 'Wells' Weeper' spruce as a statement plant in a landscape. The evergreen character of these small-to-large trees makes them year-round contributors to the landscape. Garden in a small space? Select a dwarf cultivar or a shrub cultivar.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225415%2F101503060.jpg&q=85",
     "propagation": "Grafting",
     "height": "20 feet or more",
@@ -5312,7 +5313,7 @@ const products=[
   {
     "web-scraper-order": "1618922375-1174",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/sweet-gum/",
-    "name": "Sweetgum Tree",
+    "name": "sweetgum tree",
     "genus": "Liquidambar styraciflua",
     "type": "Tree",
     "light": "Sun",
@@ -5330,7 +5331,7 @@ const products=[
   {
     "web-scraper-order": "1618922409-1184",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/sweetshade/",
-    "name": "Sweetshade Tree",
+    "name": "sweetshade tree",
     "genus": "Hymenosporum flavum",
     "type": "Tree",
     "light": "Part Sun",
@@ -5348,7 +5349,7 @@ const products=[
   {
     "web-scraper-order": "1618922381-1175",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/sycamore/",
-    "name": "Sycamore Tree",
+    "name": "sycamore tree",
     "genus": "Platanus occidentalis",
     "type": "Tree",
     "light": "Part Sun",
@@ -5366,7 +5367,7 @@ const products=[
   {
     "web-scraper-order": "1618922388-1179",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/tulip-tree/",
-    "name": "Tulip Tree",
+    "name": "tulip tree",
     "genus": "Liriodendron tulipfera",
     "type": "Tree",
     "light": "Sun",
@@ -5384,7 +5385,7 @@ const products=[
   {
     "web-scraper-order": "1618922393-1182",
     "url": "https://www.bhg.com/gardening/plant-dictionary/tree/weeping-willow/",
-    "name": "Weeping Willow",
+    "name": "weeping willow",
     "genus": "Salix babylonica",
     "type": "Tree",
     "light": "Sun",
@@ -5402,11 +5403,11 @@ const products=[
   {
     "web-scraper-order": "1618923087-1310",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/amaranth/",
-    "name": "Amaranth",
+    "name": "amaranth",
     "genus": "Amaranthus hypochondriacus",
     "type": "Annual",
     "light": "Sun",
-    "description": "Grain amaranth is prized for its highly nutritious, golden seeds. High in protein and well-balanced in amino acids, amaranth has become popular in recent years as a flour. It is also popped and flaked and used like other cereal grains like wheat and oats. Grain amaranth is part of a large genus of plants that includes popular ornamental amaranth, such as love-lies-bleeding with its ropelike strands of flowers and Joseph’s coat with its technicolor foliage. Grain amaranth is less showy, but its culinary uses give it garden accolades. Harvest young leaves for use in salads a month or so after seeding.",
+    "description": "Grain amaranth is prized for its highly nutritious, golden seeds. High in protein and well-balanced in amino acids, amaranth has become popular in recent years as a flour. It is also popped and flaked and used like other cereal grains like wheat and oats. Grain amaranth is part of a large genus of plants that includes popular ornamental amaranth, such as love-lies-bleeding with its ropelike strands of flowers and Joseph's coat with its technicolor foliage. Grain amaranth is less showy, but its culinary uses give it garden accolades. Harvest young leaves for use in salads a month or so after seeding.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225643%2F101035817.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -5420,11 +5421,11 @@ const products=[
   {
     "web-scraper-order": "1618923096-1316",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/artichoke/",
-    "name": "Artichoke",
+    "name": "artichoke",
     "genus": "Cynara scolymus",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Artichoke is a bold plant with huge silvery-green leaves that are finely cut and divided, giving them a thistlelike appearance. The plant’s big flower buds (the outer petals end in thorns that soften when cooked) rise above the clumps of foliage. They have been prized by gourmands for decades, making them some of the more expensive vegetables at the grocery store. If you love these buds, too, growing your own artichoke is a great way to save money. Harvest the flower buds before they bloom, then steam or boil them before scooping out the fleshy inner layer of each bract, as well as from the heart at the base of the bracts.",
+    "description": "Artichoke is a bold plant with huge silvery-green leaves that are finely cut and divided, giving them a thistlelike appearance. The plant's big flower buds (the outer petals end in thorns that soften when cooked) rise above the clumps of foliage. They have been prized by gourmands for decades, making them some of the more expensive vegetables at the grocery store. If you love these buds, too, growing your own artichoke is a great way to save money. Harvest the flower buds before they bloom, then steam or boil them before scooping out the fleshy inner layer of each bract, as well as from the heart at the base of the bracts.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2018%2F05%2F16021645%2F100166960.jpg&q=85",
     "propagation": "Division",
     "height": "3 to 8 feet",
@@ -5438,11 +5439,11 @@ const products=[
   {
     "web-scraper-order": "1618923104-1324",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/arugula/",
-    "name": "Arugula",
+    "name": "arugula",
     "genus": "Eruca vesicaria sativa",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "Although arugula has been grown since ancient times, only recently has this member of the cabbage family (it looks like lettuce though) gotten the attention it deserves for its bold, peppery flavor. It’s easy to grow, so plan on planting some so you can toss it into your salads and other dishes. Make sure to harvest the leaves while young. (Mature leaves tend to be bitter.)",
+    "description": "Although arugula has been grown since ancient times, only recently has this member of the cabbage family (it looks like lettuce though) gotten the attention it deserves for its bold, peppery flavor. It's easy to grow, so plan on planting some so you can toss it into your salads and other dishes. Make sure to harvest the leaves while young. (Mature leaves tend to be bitter.)",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F15223523%2F100439119.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5456,7 +5457,7 @@ const products=[
   {
     "web-scraper-order": "1618923127-1343",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/asian-greens/",
-    "name": "Asian Greens",
+    "name": "asian greens",
     "genus": "Brassica_ spp.",
     "type": "Vegetable",
     "light": "Part Sun",
@@ -5474,7 +5475,7 @@ const products=[
   {
     "web-scraper-order": "1618923112-1325",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/asparagus/",
-    "name": "Asparagus",
+    "name": "asparagus",
     "genus": "Asparagus officinalis",
     "type": "Vegetable",
     "light": "Sun",
@@ -5492,7 +5493,7 @@ const products=[
   {
     "web-scraper-order": "1618923140-1361",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/beet/",
-    "name": "Beets",
+    "name": "beets",
     "genus": "Beta vulgaris",
     "type": "Vegetable",
     "light": "Part Sun",
@@ -5510,11 +5511,11 @@ const products=[
   {
     "web-scraper-order": "1618923152-1368",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/bell-pepper/",
-    "name": "Bell Peppers",
+    "name": "bell peppers",
     "genus": "Capsicum annuum",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "A cinch to grow in home gardens in most regions of the U.S., bell peppers are much more than the classic green bell these days. Survey the supermarket and you’ll see a rainbow for the picking. It is a little more challenging to grow purple, red, and some orange peppers at home as they require an exceptionally long growing season. Green fruits are actually immature peppers. If you leave them on the plant, they eventually will develop one of the other colors, most commonly red, and become sweeter.",
+    "description": "A cinch to grow in home gardens in most regions of the U.S., bell peppers are much more than the classic green bell these days. Survey the supermarket and you'll see a rainbow for the picking. It is a little more challenging to grow purple, red, and some orange peppers at home as they require an exceptionally long growing season. Green fruits are actually immature peppers. If you leave them on the plant, they eventually will develop one of the other colors, most commonly red, and become sweeter.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F16%2Fred-yellow-peppers-e535f6d4.jpg&q=85",
     "propagation": "Seed",
     "height": "6 to 12 inches",
@@ -5528,11 +5529,11 @@ const products=[
   {
     "web-scraper-order": "1618923159-1381",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/broccoli/",
-    "name": "Broccoli",
+    "name": "broccoli",
     "genus": "Brassica oleracea",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "Growing broccoli for the first time can be surprising because this vegetable demands just the right conditions to grow perfectly: extended cool weather in spring and fall (or during winter months in mild areas). Instead of gigantic supermarket-size heads, the home gardener will likely get smaller ones—but they’ll also be very tender. The edible part of the plant is actually a cluster of flower buds. Most varieties produce one large head 50 to 55 days after transplanting into the garden. If you leave the plant in place, smaller secondary buds will develop on side shoots. Other cool-season vegetables from the same species (Brassica oleracea) include Brussels sprouts, cabbage, cauliflower, kale, and kohlrabi.",
+    "description": "Growing broccoli for the first time can be surprising because this vegetable demands just the right conditions to grow perfectly: extended cool weather in spring and fall (or during winter months in mild areas). Instead of gigantic supermarket-size heads, the home gardener will likely get smaller ones—but they'll also be very tender. The edible part of the plant is actually a cluster of flower buds. Most varieties produce one large head 50 to 55 days after transplanting into the garden. If you leave the plant in place, smaller secondary buds will develop on side shoots. Other cool-season vegetables from the same species (Brassica oleracea) include Brussels sprouts, cabbage, cauliflower, kale, and kohlrabi.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2015%2F06%2F15225515%2FSIP931235.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5546,11 +5547,11 @@ const products=[
   {
     "web-scraper-order": "1618923167-1385",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/broccoli-raab/",
-    "name": "Broccoli Raab",
+    "name": "broccoli raab",
     "genus": "Brassica rapa",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "Broccoli raab resembles its close cousin broccoli, but it develops multiple clusters of buds instead of one big head and it has a more pronounced flavor. Thankfully, it’s just as easy to grow as broccoli. Plus, it’s ready for harvest much sooner after planting. Simple to start by seeding directly in the garden, nutrient-packed broccoli raab develops tender foliage and stems as well as intense flavor in cool spring and fall weather. Sow a small crop every week for 4 to 6 weeks in early spring for a harvest that extends into early summer.",
+    "description": "Broccoli raab resembles its close cousin broccoli, but it develops multiple clusters of buds instead of one big head and it has a more pronounced flavor. Thankfully, it's just as easy to grow as broccoli. Plus, it's ready for harvest much sooner after planting. Simple to start by seeding directly in the garden, nutrient-packed broccoli raab develops tender foliage and stems as well as intense flavor in cool spring and fall weather. Sow a small crop every week for 4 to 6 weeks in early spring for a harvest that extends into early summer.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230836%2F101020368.jpg&q=85",
     "propagation": "Seed",
     "height": "6 to 12 inches",
@@ -5564,7 +5565,7 @@ const products=[
   {
     "web-scraper-order": "1618923177-1394",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/brussels-sprouts/",
-    "name": "Brussels Sprouts",
+    "name": "brussels sprouts",
     "genus": "Brassica oleracea Gemmifera group",
     "type": "Annual",
     "light": "Sun",
@@ -5582,7 +5583,7 @@ const products=[
   {
     "web-scraper-order": "1618923185-1401",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/cabbage/",
-    "name": "Cabbage",
+    "name": "cabbage",
     "genus": "Brassica oleracea Capitata_ group",
     "type": "Annual",
     "light": "Sun",
@@ -5600,11 +5601,11 @@ const products=[
   {
     "web-scraper-order": "1618923193-1416",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/carrot/",
-    "name": "Carrot",
+    "name": "carrot",
     "genus": "Daucus carota var. sativus",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "Homegrown carrots boast a flavor and texture that is quite different from their grocery counterparts. Enjoy the snappy crunch of this vegetable’s tap root when eaten raw. Cook carrots (their sweetness intensifies) to create dishes that dance the line between sweet and savory. Full sun and loose, well-drained soil will produce baskets of carrots throughout the growing season.",
+    "description": "Homegrown carrots boast a flavor and texture that is quite different from their grocery counterparts. Enjoy the snappy crunch of this vegetable's tap root when eaten raw. Cook carrots (their sweetness intensifies) to create dishes that dance the line between sweet and savory. Full sun and loose, well-drained soil will produce baskets of carrots throughout the growing season.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F30%2Fcarrots-106dce5c.jpg&q=85",
     "propagation": "Seed",
     "height": "Under 6 inches",
@@ -5618,7 +5619,7 @@ const products=[
   {
     "web-scraper-order": "1618923132-1352",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/bean/",
-    "name": "Green Beans Snap Beans",
+    "name": "green beans snap beans",
     "genus": "Phaseolus vulgaris",
     "type": "Vegetable",
     "light": "Sun",
@@ -5636,7 +5637,7 @@ const products=[
   {
     "web-scraper-order": "1618922974-1190",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/radicchio/",
-    "name": "Radicchio",
+    "name": "radicchio",
     "genus": "Cichorium intybus",
     "type": "Vegetable",
     "light": "Sun",
@@ -5654,11 +5655,11 @@ const products=[
   {
     "web-scraper-order": "1618922992-1201",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/radish/",
-    "name": "Radish",
+    "name": "radish",
     "genus": "Rhaphanus sativus",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "A favorite early spring crop, radishes are a cinch to grow from seed, producing peppery edible roots in as few as 30 days. In climates with cold winters, you can enjoy a second crop in fall by planting seeds when the nights turn cool in early fall. In mild climates, it’s possible to harvest radishes through winter. Enjoy them in salads or with your favorite dip.",
+    "description": "A favorite early spring crop, radishes are a cinch to grow from seed, producing peppery edible roots in as few as 30 days. In climates with cold winters, you can enjoy a second crop in fall by planting seeds when the nights turn cool in early fall. In mild climates, it's possible to harvest radishes through winter. Enjoy them in salads or with your favorite dip.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230820%2F100457461.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5672,7 +5673,7 @@ const products=[
   {
     "web-scraper-order": "1618922983-1194",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/rhubarb/",
-    "name": "Rhubarb",
+    "name": "rhubarb",
     "genus": "Rheum rhabarbarum",
     "type": "Vegetable",
     "light": "Sun",
@@ -5690,7 +5691,7 @@ const products=[
   {
     "web-scraper-order": "1618923011-1222",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/rutabaga/",
-    "name": "Rutabaga",
+    "name": "rutabaga",
     "genus": "Brassica napus",
     "type": "Vegetable",
     "light": "Sun",
@@ -5708,11 +5709,11 @@ const products=[
   {
     "web-scraper-order": "1618923002-1214",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/spinach/",
-    "name": "Spinach",
+    "name": "spinach",
     "genus": "Spinacia oleracea",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "Spinach is a rewarding plant in the spring vegetable garden because it’s easy to grow and incredibly nutritious. Dubbed a superfood because of the vitamins and minerals found within its leaves, spinach deserves a space in every yard. It’s perhaps best used fresh in salads, either by itself or mixed with other greens like lettuce or arugula. You can also add a few leaves to a smoothie, or if you prefer your spinach cooked, just steam or sauté it for a few minutes.",
+    "description": "Spinach is a rewarding plant in the spring vegetable garden because it's easy to grow and incredibly nutritious. Dubbed a superfood because of the vitamins and minerals found within its leaves, spinach deserves a space in every yard. It's perhaps best used fresh in salads, either by itself or mixed with other greens like lettuce or arugula. You can also add a few leaves to a smoothie, or if you prefer your spinach cooked, just steam or sauté it for a few minutes.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F30%2Fspinach-spinacia-oleracea-2842739e.jpg&q=85",
     "propagation": "Seed",
     "height": "6 to 12 inches",
@@ -5726,7 +5727,7 @@ const products=[
   {
     "web-scraper-order": "1618923027-1230",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/summer-squash-varieties/",
-    "name": "Summer Squash",
+    "name": "summer squash",
     "genus": "Cucurbita pepo",
     "type": "Vegetable",
     "light": "Sun",
@@ -5744,7 +5745,7 @@ const products=[
   {
     "web-scraper-order": "1618923035-1236",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/sweet-potato/",
-    "name": "Sweet Potato",
+    "name": "sweet potato",
     "genus": "Ipomoea batatas",
     "type": "Vegetable",
     "light": "Sun",
@@ -5762,7 +5763,7 @@ const products=[
   {
     "web-scraper-order": "1618923041-1238",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/tomatillo/",
-    "name": "Tomatillo",
+    "name": "tomatillo",
     "genus": "Physalis ixocarpa",
     "type": "Vegetable",
     "light": "Sun",
@@ -5780,11 +5781,11 @@ const products=[
   {
     "web-scraper-order": "1618923049-1244",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/tomato/",
-    "name": "Tomato",
+    "name": "tomato",
     "genus": "Solanum lycopersicum",
     "type": "Fruit",
     "light": "Sun",
-    "description": "Tomatoes are one of the easiest vegetables to grow. Provide them with at least 8 hours of bright sunlight and a well-drained planting spot and you’ll enjoy your own juicy harvest. In recent years plant breeders focused on producing small tomato plants that boast a prolific harvest. Grape and cherry tomato cultivars bred specifically for containers and small spaces make growing these essential summer fruits possible on balconies, patios, and any other place that receives plenty of sunlight. Get ready for a great harvest.",
+    "description": "Tomatoes are one of the easiest vegetables to grow. Provide them with at least 8 hours of bright sunlight and a well-drained planting spot and you'll enjoy your own juicy harvest. In recent years plant breeders focused on producing small tomato plants that boast a prolific harvest. Grape and cherry tomato cultivars bred specifically for containers and small spaces make growing these essential summer fruits possible on balconies, patios, and any other place that receives plenty of sunlight. Get ready for a great harvest.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F09%2Ftomatoes-66bb86fc.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5798,7 +5799,7 @@ const products=[
   {
     "web-scraper-order": "1618923057-1277",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/turnip/",
-    "name": "Turnip",
+    "name": "turnip",
     "genus": "Brassica rapa",
     "type": "Vegetable",
     "light": "Sun",
@@ -5816,7 +5817,7 @@ const products=[
   {
     "web-scraper-order": "1618923066-1281",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/watermelon/",
-    "name": "Watermelon",
+    "name": "watermelon",
     "genus": "Citrullus lanatus",
     "type": "Fruit",
     "light": "Sun",
@@ -5834,7 +5835,7 @@ const products=[
   {
     "web-scraper-order": "1618923580-1439",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/kale/",
-    "name": "Kale",
+    "name": "kale",
     "genus": "Brassica oleracea var. acephala",
     "type": "Vegetable",
     "light": "Sun",
@@ -5852,11 +5853,11 @@ const products=[
   {
     "web-scraper-order": "1618923572-1424",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/kohlrabi/",
-    "name": "Kohlrabi",
+    "name": "kohlrabi",
     "genus": "Brassica oleracea Gongylodes group",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Kohlrabi is a nutritious vegetable that’s often overlooked in edible gardens. That’s too bad because this plant offers a delicious taste and interesting appearance, and it’s a cinch to grow. This cabbage relative develops a swollen, bulblike stem from which its textural gray-green leaves sprout. Its interesting look and easy-to-grow nature make this vegetable good for a garden tended by children to help develop the next generation’s love of fresh food and gardening.",
+    "description": "Kohlrabi is a nutritious vegetable that's often overlooked in edible gardens. That's too bad because this plant offers a delicious taste and interesting appearance, and it's a cinch to grow. This cabbage relative develops a swollen, bulblike stem from which its textural gray-green leaves sprout. Its interesting look and easy-to-grow nature make this vegetable good for a garden tended by children to help develop the next generation's love of fresh food and gardening.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225943%2F100329025.jpg&q=85",
     "propagation": "Seed",
     "height": "6 to 12 inches",
@@ -5870,7 +5871,7 @@ const products=[
   {
     "web-scraper-order": "1618923603-1466",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/leek/",
-    "name": "Leek",
+    "name": "leek",
     "genus": "Allium porrum",
     "type": "Vegetable",
     "light": "Sun",
@@ -5888,11 +5889,11 @@ const products=[
   {
     "web-scraper-order": "1618923593-1458",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/lettuce/",
-    "name": "Lettuce",
+    "name": "lettuce",
     "genus": "Lactuca sativa",
     "type": "Vegetable",
     "light": "Part Sun",
-    "description": "There’s no need to wait until tomatoes ripen in summer to embrace garden-to-table deliciousness. That’s because lettuce, a suitable plant for small-space gardens, is exceptionally easy to grow in cool weather. Plant lettuce in early spring and your table will overflow with tender, flavorful greens 6-8 weeks later.",
+    "description": "There's no need to wait until tomatoes ripen in summer to embrace garden-to-table deliciousness. That's because lettuce, a suitable plant for small-space gardens, is exceptionally easy to grow in cool weather. Plant lettuce in early spring and your table will overflow with tender, flavorful greens 6-8 weeks later.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F17%2Ftango-oakleaf-lettuce-c6f6417e.jpg&q=85",
     "propagation": "Seed",
     "height": "Under 6 inches",
@@ -5906,11 +5907,11 @@ const products=[
   {
     "web-scraper-order": "1618923614-1474",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/lima-bean/",
-    "name": "Lima Bean",
+    "name": "lima bean",
     "genus": "Phaseolus lunatus",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "If its name sets off less-than-pleasant childhood memories for you, you'll develop a new appreciation for this nutrient-rich vegetable when you grow it yourself. A close relative of snap beans, this warm-season crop is easy to start from seed planted right in the garden. Plus, it’s a good producer. Enjoy lima beans fresh by picking pods when they are full and bright green, or allow beans to dry on the plant and harvest dried beans for use during the cooler months.",
+    "description": "If its name sets off less-than-pleasant childhood memories for you, you'll develop a new appreciation for this nutrient-rich vegetable when you grow it yourself. A close relative of snap beans, this warm-season crop is easy to start from seed planted right in the garden. Plus, it's a good producer. Enjoy lima beans fresh by picking pods when they are full and bright green, or allow beans to dry on the plant and harvest dried beans for use during the cooler months.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F16%2Flima-beans-phaseolus-lunatus-5e580016.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5924,7 +5925,7 @@ const products=[
   {
     "web-scraper-order": "1618923625-1481",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/malabar-spinach/",
-    "name": "Malabar Spinach",
+    "name": "malabar spinach",
     "genus": "Basella alba",
     "type": "Vine",
     "light": "Sun",
@@ -5942,11 +5943,11 @@ const products=[
   {
     "web-scraper-order": "1618923635-1484",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/melon/",
-    "name": "Melon",
+    "name": "melon",
     "genus": "Cucumis melo",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Long, hot summers with ample moisture yield juicy, flavor-rich melons with a high sugar content. Not all regions provide the necessary long stretch of warm weather and adequate moisture to grow great melons. But if you live in a region that does, plant some seeds and get ready for a bountiful harvest. Melons don’t all ripen at the same time, so you will enjoy a long season of harvest with many fruits to share with friends and family.",
+    "description": "Long, hot summers with ample moisture yield juicy, flavor-rich melons with a high sugar content. Not all regions provide the necessary long stretch of warm weather and adequate moisture to grow great melons. But if you live in a region that does, plant some seeds and get ready for a bountiful harvest. Melons don't all ripen at the same time, so you will enjoy a long season of harvest with many fruits to share with friends and family.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F07%2F13%2Fmelon-cucumis-melo-47c8b217.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -5960,7 +5961,7 @@ const products=[
   {
     "web-scraper-order": "1618923649-1496",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/new-zealand-spinach/",
-    "name": "New Zealand Spinach",
+    "name": "new zealand spinach",
     "genus": "Tetragonia tetragonioides",
     "type": "Vegetable",
     "light": "Sun",
@@ -5978,11 +5979,11 @@ const products=[
   {
     "web-scraper-order": "1618923667-1500",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/okra/",
-    "name": "Okra",
+    "name": "okra",
     "genus": "Abelmoschus esculentus",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Traditionally a favorite in the South, okra is growing more popular in home gardens everywhere. It’s easy to learn why. Okra is a nutritious vegetable that’s easy to grow and ornamental—what’s not to love?",
+    "description": "Traditionally a favorite in the South, okra is growing more popular in home gardens everywhere. It's easy to learn why. Okra is a nutritious vegetable that's easy to grow and ornamental—what's not to love?",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2015%2F06%2F16003317%2F101074395.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -5996,11 +5997,11 @@ const products=[
   {
     "web-scraper-order": "1618923675-1516",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/onion/",
-    "name": "Onion",
+    "name": "onion",
     "genus": "Allium cepa",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "The onion is an easy-to-grow vegetable that’s big on flavor. Whether you grow sweet onions or storage onions, fresh onions are delicious on salads, sautéed, or caramelized in a variety of savory dishes. Plant a diverse crop of onions, including a variety or two that stores well, and enjoy garden-fresh onions year-round. Full sun and moist, well-drained soil are all you need for a prolific onion crop.",
+    "description": "The onion is an easy-to-grow vegetable that's big on flavor. Whether you grow sweet onions or storage onions, fresh onions are delicious on salads, sautéed, or caramelized in a variety of savory dishes. Plant a diverse crop of onions, including a variety or two that stores well, and enjoy garden-fresh onions year-round. Full sun and moist, well-drained soil are all you need for a prolific onion crop.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2019%2F01%2F15220349%2FMWL408500.jpg&q=85",
     "propagation": "Seed",
     "height": "6 to 12 inches",
@@ -6009,12 +6010,12 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "None",
     "special_features": "None",
-    "care_must_knows": "Allium cepa 'Copra Hybrid' is a widely adapted long-day yellow storage onion that is sweeter than most other storage onions. Onions can be started from seed or from sets (tiny bulbets). With seeds you have more choice of varieties, and you can choose varieties that are suited to your region. (In the North, plant long-season onions in the spring; in the South, short season onions, planted in the fall, are best.)\nStart your seeds, transplant into larger cells, and before planting out, harden them off by putting the pots outside for several days. In the garden, onion plants should be spaced 4 to 6 inches apart in the row, with rows 1 to 2 feet apart. Plant each one about 1/2 inch deep in a small hole. After planting, trim the tops to about 4 inches.\nOnions need about 1 inch of water per week, so if the weather is dry, you’ll need to water."
+    "care_must_knows": "Allium cepa 'Copra Hybrid' is a widely adapted long-day yellow storage onion that is sweeter than most other storage onions. Onions can be started from seed or from sets (tiny bulbets). With seeds you have more choice of varieties, and you can choose varieties that are suited to your region. (In the North, plant long-season onions in the spring; in the South, short season onions, planted in the fall, are best.)\nStart your seeds, transplant into larger cells, and before planting out, harden them off by putting the pots outside for several days. In the garden, onion plants should be spaced 4 to 6 inches apart in the row, with rows 1 to 2 feet apart. Plant each one about 1/2 inch deep in a small hole. After planting, trim the tops to about 4 inches.\nOnions need about 1 inch of water per week, so if the weather is dry, you'll need to water."
   },
   {
     "web-scraper-order": "1618923693-1530",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/parsnip/",
-    "name": "Parsnip",
+    "name": "parsnip",
     "genus": "Pastinaca sativa",
     "type": "Vegetable",
     "light": "Sun",
@@ -6032,11 +6033,11 @@ const products=[
   {
     "web-scraper-order": "1618923681-1526",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/pea/",
-    "name": "Pea",
+    "name": "pea",
     "genus": "Pisum sativum",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Peas are a spring garden staple, loved for their easy-to-grow nature, delicious seeds, and nutritional value. There’s something magical about harvesting peas fresh from the garden and tasting their sweet, fresh flavor.",
+    "description": "Peas are a spring garden staple, loved for their easy-to-grow nature, delicious seeds, and nutritional value. There's something magical about harvesting peas fresh from the garden and tasting their sweet, fresh flavor.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31230214%2F100331359.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -6050,11 +6051,11 @@ const products=[
   {
     "web-scraper-order": "1618923701-1537",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/peanut/",
-    "name": "Peanuts",
+    "name": "peanuts",
     "genus": "Arachis hypogaea",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "Growing and harvesting peanuts is a little like hosting your own treasure hunt. These warm season plants are easy to grow in areas with long, hot summers and moist, well-drained soil. When the peanut foliage turns yellow, it’s time to go on a dig for your treasure. The underground nuts are ready to eat a few weeks after digging and drying. Grow peanuts in the vegetable garden where the soil is loose and moist.",
+    "description": "Growing and harvesting peanuts is a little like hosting your own treasure hunt. These warm season plants are easy to grow in areas with long, hot summers and moist, well-drained soil. When the peanut foliage turns yellow, it's time to go on a dig for your treasure. The underground nuts are ready to eat a few weeks after digging and drying. Grow peanuts in the vegetable garden where the soil is loose and moist.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225512%2F101126992.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -6068,11 +6069,11 @@ const products=[
   {
     "web-scraper-order": "1618923709-1539",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vegetable/pumpkin/",
-    "name": "Pumpkin",
+    "name": "pumpkin",
     "genus": "Cucurbita maxima",
     "type": "Vegetable",
     "light": "Sun",
-    "description": "From giant pumpkins that weigh hundreds of pounds to miniature pumpkins that fit neatly in the palm of your hand, there’s a pumpkin for every gardener. Growing pumpkins is easy, though it can require ample space. There’s a reason they call it a pumpkin patch: These autumn treasures need room and grow several feet out in all directions. Traditional orange jack-o’-lantern pumpkins are a top choice for carving, but it’s also fun to try other colors: white, buff, blue-green, and scarlet.",
+    "description": "From giant pumpkins that weigh hundreds of pounds to miniature pumpkins that fit neatly in the palm of your hand, there's a pumpkin for every gardener. Growing pumpkins is easy, though it can require ample space. There's a reason they call it a pumpkin patch: These autumn treasures need room and grow several feet out in all directions. Traditional orange jack-o'-lantern pumpkins are a top choice for carving, but it's also fun to try other colors: white, buff, blue-green, and scarlet.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F04%2F29%2Fvariety-orange-yellow-white-pumpkins-eb4d1c60.jpg&q=85",
     "propagation": "Seed",
     "height": "1 to 3 feet",
@@ -6086,11 +6087,11 @@ const products=[
   {
     "web-scraper-order": "1618924065-1569",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/akebia/",
-    "name": "Akebia",
+    "name": "akebia",
     "genus": "Akebia spp.",
     "type": "Vine",
     "light": "Part Sun",
-    "description": "Akebia is a large deciduous perennial vine that can be grown in either sun or shade. In fact, it’s one of the few perennial vines you can enjoy in a shade or woodland garden. In spring this plant shows off delicate purple or white flowers that smell of chocolate. As enticing as that scent may be, it’s the lush foliage that really makes this vine worth growing. The blue-green leaves are divided into leaflets, adding a wonderfully soft texture as the vine scales walls, pergolas, and other structures. Give akebia a sturdy support—it grows large and heavy at maturity and may crush small structures.",
+    "description": "Akebia is a large deciduous perennial vine that can be grown in either sun or shade. In fact, it's one of the few perennial vines you can enjoy in a shade or woodland garden. In spring this plant shows off delicate purple or white flowers that smell of chocolate. As enticing as that scent may be, it's the lush foliage that really makes this vine worth growing. The blue-green leaves are divided into leaflets, adding a wonderfully soft texture as the vine scales walls, pergolas, and other structures. Give akebia a sturdy support—it grows large and heavy at maturity and may crush small structures.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F15223146%2F100411851.jpg&q=85",
     "propagation": "Layering",
     "height": "8 to 20 feet",
@@ -6104,7 +6105,7 @@ const products=[
   {
     "web-scraper-order": "1618924078-1578",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/black-eyed-susan-vine/",
-    "name": "Black-Eyed Susan Vine",
+    "name": "black-eyed susan vine",
     "genus": "Thunbergia",
     "type": "Annual",
     "light": "Sun",
@@ -6117,16 +6118,16 @@ const products=[
     "foliage_color": "Chartreuse/Gold",
     "problem_solvers": "None",
     "special_features": "Low Maintenance",
-    "care_must_knows": "This variety of Thunbergia alata offers big yellow flowers with brown centers. It climbs to 8 feet. Zone 10-11, but it's usually grown as an annual."
+    "care_must_knows": "This variety of Thunbergia alata offers big yellow flowers with brown centers. It climbs to 8 feet. Zone 10-11, but it's usually grown as an annual."
   },
   {
     "web-scraper-order": "1618924090-1581",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/boston-ivy/",
-    "name": "Boston Ivy",
+    "name": "boston ivy",
     "genus": "Parthenocissus",
     "type": "Vine",
     "light": "Part Sun",
-    "description": "Stroll across a university campus and you might spot Boston ivy clinging to buildings—especially in the Northeast where it inspired the name Ivy League. You may want to use it to cover your own buildings, walls, trellises, arbors, and fences. Or you can let it do its thing to cover eyesores like old stumps, dead trees, and piles of rocks. This vigorous vine, which grows up to 50 feet long or more, cloaks horizontal and vertical structures with lustrous green foliage that erupts in shades of red, orange, and yellow in fall. The colorful three-lobed leaves (each lobe is pointed) hang onto the vines for several weeks as if celebrating the end of the growing season. Birds visit frequently to eat the plant’s purple-black berries in autumn. But be careful, the berries are poisonous to people and pets. This ivy is rarely bothered by deer.",
+    "description": "Stroll across a university campus and you might spot Boston ivy clinging to buildings—especially in the Northeast where it inspired the name Ivy League. You may want to use it to cover your own buildings, walls, trellises, arbors, and fences. Or you can let it do its thing to cover eyesores like old stumps, dead trees, and piles of rocks. This vigorous vine, which grows up to 50 feet long or more, cloaks horizontal and vertical structures with lustrous green foliage that erupts in shades of red, orange, and yellow in fall. The colorful three-lobed leaves (each lobe is pointed) hang onto the vines for several weeks as if celebrating the end of the growing season. Birds visit frequently to eat the plant's purple-black berries in autumn. But be careful, the berries are poisonous to people and pets. This ivy is rarely bothered by deer.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225538%2F100232761.jpg&q=85",
     "propagation": "Layering",
     "height": "20 feet or more",
@@ -6135,16 +6136,16 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "Deer Resistant",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Other great companion plants include low-maintenance shrubs that thrive in a variety of growing conditions. Call on mock orange Philadelphus, ninebark Physocarpus, and potentilla to enhance full-sun or part-shade areas. These easy-to-grow shrubs will provide spring and early summer flowers at the foot of Boston ivy. Complement full-shade plantings of Boston ivy with rhododendron and camellia shrubs."
+    "care_must_knows": "Other great companion plants include low-maintenance shrubs that thrive in a variety of growing conditions. Call on mock orange Philadelphus, ninebark Physocarpus, and potentilla to enhance full-sun or part-shade areas. These easy-to-grow shrubs will provide spring and early summer flowers at the foot of Boston ivy. Complement full-shade plantings of Boston ivy with rhododendron and camellia shrubs."
   },
   {
     "web-scraper-order": "1618924101-1589",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/bougainvillea/",
-    "name": "Bougainvillea",
+    "name": "bougainvillea",
     "genus": "Bougainvillea",
     "type": "Vine",
     "light": "Sun",
-    "description": "If you’re looking for a tough tropical vine with lots of color, you’ve found it! Bougainvillea plants are tough as nails, which includes their nail-like thorns. These plants put on a spectacular show of color in spring on their fresh new growth. If you’re thinking of planting a bougainvillea in your garden, be sure to allow plenty of room for it to spread and grow.",
+    "description": "If you're looking for a tough tropical vine with lots of color, you've found it! Bougainvillea plants are tough as nails, which includes their nail-like thorns. These plants put on a spectacular show of color in spring on their fresh new growth. If you're thinking of planting a bougainvillea in your garden, be sure to allow plenty of room for it to spread and grow.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F08%2F17%2Fpink-flowers-barn-door-72d0893c.jpg&q=85",
     "propagation": "Stem Cuttings",
     "height": "8 to 20 feet",
@@ -6158,7 +6159,7 @@ const products=[
   {
     "web-scraper-order": "1618924122-1605",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/cardinal-climber/",
-    "name": "Cardinal Climber",
+    "name": "cardinal climber",
     "genus": "Ipomoea sloteri",
     "type": "Annual",
     "light": "Sun",
@@ -6176,11 +6177,11 @@ const products=[
   {
     "web-scraper-order": "1618924130-1638",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/clematis/",
-    "name": "Clematis",
+    "name": "clematis",
     "genus": "Clematis",
     "type": "Perennial",
     "light": "Part Sun",
-    "description": "Clematis is one of the showiest vines you can grow. With many types of shapes and colors, these plants dress up any kind of structure they climb. Bloom time ranges from late spring to fall, depending on the type and variety. With proper planning, it’s possible to have clematis blooms throughout the growing season. You can even plant these vigorous vines alongside woody plants like roses, trees, or shrubs to act as a living trellis.",
+    "description": "Clematis is one of the showiest vines you can grow. With many types of shapes and colors, these plants dress up any kind of structure they climb. Bloom time ranges from late spring to fall, depending on the type and variety. With proper planning, it's possible to have clematis blooms throughout the growing season. You can even plant these vigorous vines alongside woody plants like roses, trees, or shrubs to act as a living trellis.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2020%2F08%2F12%2Fpurple-clematis-eloile-viole-tte-28916940.jpg&q=85",
     "propagation": "Seed",
     "height": "3 to 8 feet",
@@ -6194,7 +6195,7 @@ const products=[
   {
     "web-scraper-order": "1618924114-1599",
     "url": "https://www.bhg.com/gardening/plant-dictionary/vine/hops/",
-    "name": "Hops",
+    "name": "hops",
     "genus": "Humulus lupulus",
     "type": "Vine",
     "light": "Part Sun",
@@ -6212,7 +6213,7 @@ const products=[
   {
     "web-scraper-order": "1618925025-1702",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/amazon-lily/",
-    "name": "Amazon Lily",
+    "name": "amazon lily",
     "genus": "Victoria amazonica",
     "type": "Water Plant",
     "light": "Sun",
@@ -6225,12 +6226,12 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "None",
     "special_features": "Low Maintenance",
-    "care_must_knows": "When growing Amazon lilies in containers, you can fit three to five bulbs in a 6-inch (15 cm.) pot. Let the plants grow until they crowd the container before dividing, as they don’t like to be disturbed. Use a high-quality potting soil and put the bulbs in so that the neck is just above the surface. Amazon lily prefers indirect light and high humidity. During growing times, keep the soil moist and spray or use a pebble tray for humidity. Make sure your plant stays warm in winter; it cannot tolerate temperatures below 55 degrees Fahrenheit (12.8 Celsius). There are few pests or diseases to worry about with Amazon lily, especially indoors. Make sure soil drains well and avoid overwatering to prevent root rot. Outdoors, you may need to protect the leaves from slugs and snails. Mites may be a problem as well."
+    "care_must_knows": "When growing Amazon lilies in containers, you can fit three to five bulbs in a 6-inch (15 cm.) pot. Let the plants grow until they crowd the container before dividing, as they don't like to be disturbed. Use a high-quality potting soil and put the bulbs in so that the neck is just above the surface. Amazon lily prefers indirect light and high humidity. During growing times, keep the soil moist and spray or use a pebble tray for humidity. Make sure your plant stays warm in winter; it cannot tolerate temperatures below 55 degrees Fahrenheit (12.8 Celsius). There are few pests or diseases to worry about with Amazon lily, especially indoors. Make sure soil drains well and avoid overwatering to prevent root rot. Outdoors, you may need to protect the leaves from slugs and snails. Mites may be a problem as well."
   },
   {
     "web-scraper-order": "1618925040-1704",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/duckweed/",
-    "name": "Duckweed",
+    "name": "duckweed",
     "genus": "Lemna aequinoctialis",
     "type": "Water Plant",
     "light": "Sun",
@@ -6248,11 +6249,11 @@ const products=[
   {
     "web-scraper-order": "1618925055-1706",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/fairy-moss/",
-    "name": "Fairy Moss",
+    "name": "fairy moss",
     "genus": "Azolla filiculoides",
     "type": "Water Plant",
     "light": "Part Sun",
-    "description": "Add a soft, delicate look to your water garden with fairy moss, which is also known as water fern or mosquito fern. Koi love to nibble on its soft, fuzzy foliage. Because it floats freely on the surface, shading the water as it spreads, fairy moss helps to reduce algae growth. Its colorful fall leaf display is a great bonus; the foliage darkens to purple-red at season’s end. Bring some clumps indoors to overwinter in an aquarium or pan of water to replenish the pond supply in the next season.",
+    "description": "Add a soft, delicate look to your water garden with fairy moss, which is also known as water fern or mosquito fern. Koi love to nibble on its soft, fuzzy foliage. Because it floats freely on the surface, shading the water as it spreads, fairy moss helps to reduce algae growth. Its colorful fall leaf display is a great bonus; the foliage darkens to purple-red at season's end. Bring some clumps indoors to overwinter in an aquarium or pan of water to replenish the pond supply in the next season.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225902%2F100021932.jpg&q=85",
     "propagation": "Division",
     "height": "Under 6 inches",
@@ -6266,11 +6267,11 @@ const products=[
   {
     "web-scraper-order": "1618925004-1697",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/lotus/",
-    "name": "Lotus",
+    "name": "lotus",
     "genus": "Nelumbo",
     "type": "Water Plant",
     "light": "Sun",
-    "description": "Native to Asia and Australia, the lotus is considered sacred by the Buddhist and Hindu religions. It’s also prized by water gardeners because it’s both beautiful and easy to grow. Lotus stalks start out in muddy soil and water, and end in sweetly fragrant white-to-pink flowers that can grow as large as 12 inches across. Although spectacular, the flowers are short-lived—appearing for only a few days followed by large ornamental seed pods. Also intriguing to observe, the plant’s canopy of waxy blue-green leaves can reach two to three feet in diameter—either lying flat on the water or rising up several feet above the water line.",
+    "description": "Native to Asia and Australia, the lotus is considered sacred by the Buddhist and Hindu religions. It's also prized by water gardeners because it's both beautiful and easy to grow. Lotus stalks start out in muddy soil and water, and end in sweetly fragrant white-to-pink flowers that can grow as large as 12 inches across. Although spectacular, the flowers are short-lived—appearing for only a few days followed by large ornamental seed pods. Also intriguing to observe, the plant's canopy of waxy blue-green leaves can reach two to three feet in diameter—either lying flat on the water or rising up several feet above the water line.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225537%2F100168836.jpg&q=85",
     "propagation": "Division",
     "height": "3 to 8 feet",
@@ -6284,7 +6285,7 @@ const products=[
   {
     "web-scraper-order": "1618925091-1712",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/papyrus/",
-    "name": "Papyrus",
+    "name": "papyrus",
     "genus": "Cyperus papyrus",
     "type": "Water Plant",
     "light": "Sun",
@@ -6302,7 +6303,7 @@ const products=[
   {
     "web-scraper-order": "1618925048-1705",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/water-lettuce/",
-    "name": "Water Lettuce",
+    "name": "water lettuce",
     "genus": "Pistia stratiodes",
     "type": "Water Plant",
     "light": "Part Sun",
@@ -6315,12 +6316,12 @@ const products=[
     "foliage_color": "None",
     "problem_solvers": "None",
     "special_features": "Low Maintenance",
-    "care_must_knows": "Water lettuce grows floating on the surface water, and its leaves form a rosette, with dense, submerged roots beneath it. These plants grow like a weed outdoors, but they can be very challenging to grow in the home aquarium. However, if they are provided with the right conditions, they can completely overrun an aquarium, and in most cases, it’s a good idea to remove a few plants during weekly tank maintenance."
+    "care_must_knows": "Water lettuce grows floating on the surface water, and its leaves form a rosette, with dense, submerged roots beneath it. These plants grow like a weed outdoors, but they can be very challenging to grow in the home aquarium. However, if they are provided with the right conditions, they can completely overrun an aquarium, and in most cases, it's a good idea to remove a few plants during weekly tank maintenance."
   },
   {
     "web-scraper-order": "1618925096-1714",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/water-lily/",
-    "name": "Water Lily",
+    "name": "water lily",
     "genus": "Nymphaea",
     "type": "Water Plant",
     "light": "Sun",
@@ -6338,11 +6339,11 @@ const products=[
   {
     "web-scraper-order": "1618925010-1698",
     "url": "https://www.bhg.com/gardening/plant-dictionary/water/water-snowflake/",
-    "name": "Water Snowflake",
+    "name": "water snowflake",
     "genus": "Nymphoides",
     "type": "Water Plant",
     "light": "Part Sun",
-    "description": "Delicate flowers and glossy leaves make this easy-to-grow water garden plant a favorite. The yellow form is also called floating heart, thanks to the heart-shape leaves that float like water lily leaves on the pond surface. Add water snowflake to in-ground water gardens or container gardens. Unlike some water garden plants, water snowflake is generally well-behaved and doesn’t overtake nearby plants.",
+    "description": "Delicate flowers and glossy leaves make this easy-to-grow water garden plant a favorite. The yellow form is also called floating heart, thanks to the heart-shape leaves that float like water lily leaves on the pond surface. Add water snowflake to in-ground water gardens or container gardens. Unlike some water garden plants, water snowflake is generally well-behaved and doesn't overtake nearby plants.",
     "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F37%2F2016%2F02%2F31225527%2FCTG517133.jpg&q=85",
     "propagation": "Division",
     "height": "Under 6 inches",

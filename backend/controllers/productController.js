@@ -29,7 +29,10 @@ const getProducts = asyncHandler(async (req, res) => {
 // @route   GET /api/products/:id
 // @access  Public
 const getProductById = asyncHandler(async (req, res) => {
-  const product = await Product.findById(req.params.id)
+  console.log(req.params.id);
+
+  const product = await Product.findOne({name:req.params.id})
+
 
   if (product) {
     res.json(product)
@@ -117,7 +120,7 @@ const createProductReview = asyncHandler(async (req, res) => {
 
   if (product) {
     const alreadyReviewed = product.reviews.find(
-      (r) => r.user.toString() === req.user._id.toString()
+      (r) => r.user.toString() === req.user.name.toString()
     )
 
     if (alreadyReviewed) {

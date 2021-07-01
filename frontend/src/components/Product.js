@@ -4,16 +4,17 @@ import { Card } from 'react-bootstrap'
 import Rating from './Rating'
 
 const Product = ({ product }) => {
+  console.log(product);
   return (
     <Card className='my-3 p-3 rounded'>
-      <Link to={`/product/${product._id}`}>
+      <Link to={`/product/${product.name}`}>
         <Card.Img src={product.image} variant='top' className="card-img" />
       </Link>
 
       <Card.Body>
-        <Link to={`/product/${product._id}`}>
+        <Link to={`/product/${product.name}`}>
           <Card.Title as='div'>
-            <strong>{product.name}</strong>
+            <strong>{product.name.toUpperCase()}</strong>
           </Card.Title>
         </Link>
 

@@ -117,6 +117,7 @@ const createProductReview = asyncHandler(async (req, res) => {
   const { rating, comment } = req.body
 
   const product = await Product.findById(req.params.id)
+  // console.log("hello",req.user)
 
   if (product) {
     const alreadyReviewed = product.reviews.find(

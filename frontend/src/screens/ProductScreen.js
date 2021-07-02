@@ -36,7 +36,7 @@ const ProductScreen = ({ history, match }) => {
   const { loading, error, product } = productDetails;
 
   const product_name = match.params.id;
-  console.log(product_name);
+  // console.log(product._id);
 
   const userLogin = useSelector((state) => state.userLogin);
   const { userInfo } = userLogin;
@@ -70,12 +70,14 @@ const ProductScreen = ({ history, match }) => {
   const submitHandler = (e) => {
     e.preventDefault();
     dispatch(
-      createProductReview(match.params.id, {
+      createProductReview(product._id, {
         rating,
         comment,
       })
     );
   };
+  // console.log(rating);
+  // console.log(comment);
 
   return (
     <>

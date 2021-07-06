@@ -47,7 +47,7 @@ const AboutScreen = () => {
             <div className="card mr-2 d-inline-block shadow-lg">
               <div className="card-img-top">
                 <img
-                  src="images/rishav.jpg"
+                  src="images/rishav1.jpg"
                   alt="member"
                   className="img-fluid rounded-circle w-50.5 p-4"
                 />

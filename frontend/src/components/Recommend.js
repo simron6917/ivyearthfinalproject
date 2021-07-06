@@ -28,7 +28,7 @@ const Recommend = () => {
       <Card.Body>
         <Link to={`/product/${product.name}`}>
           <Card.Title as='div'>
-            <strong>{product.name}</strong>
+            <strong>{product.name.toUpperCase()}</strong>
           </Card.Title>
         </Link>
 

@@ -18,7 +18,6 @@ import RecommendDetailScreen from './screens/RecommendDetailScreen'
 
 import Recommend from './components/Recommend'
 
-// import ProductEditScreen from './screens/ProductEditScreen'
 
 const App = () => {
   return (

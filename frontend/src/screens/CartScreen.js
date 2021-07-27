@@ -36,7 +36,7 @@ const CartScreen = ({ match, location, history }) => {
         <h1>Bookmark Screen</h1>
         {cartItems.length === 0 ? (
           <Message>
-            Your bookamrk is empty <Link to='/home'>Go Back</Link>
+            Your bookmark is empty <Link to='/home'>Go Back</Link>
           </Message>
         ) : (
           <ListGroup variant='flush'>

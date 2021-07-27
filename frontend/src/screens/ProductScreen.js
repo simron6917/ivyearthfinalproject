@@ -60,7 +60,7 @@ const ProductScreen = ({ history, match }) => {
   }, [dispatch, match, successProductReview]);
 
   const addToCartHandler = () => {
-    history.push(`/cart/${match.params.id}?qty=${qty}`);
+    history.push(`/bookmark/${match.params.id}?qty=${qty}`);
   };
   const plantRecommend = () => {
     dispatch(recommendProducts(product.name));

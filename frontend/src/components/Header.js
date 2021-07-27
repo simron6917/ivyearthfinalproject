@@ -27,7 +27,7 @@ const Header = () => {
           <Navbar.Collapse id='basic-navbar-nav'>
             <Route render={({ history }) => <SearchBox history={history} />} />
             <Nav className='ml-auto'>
-              <LinkContainer to='/cart'>
+              <LinkContainer to='/bookmark'>
                 <Nav.Link>
                   <i className='fas fa-bookmark'></i> Bookmark
                 </Nav.Link>

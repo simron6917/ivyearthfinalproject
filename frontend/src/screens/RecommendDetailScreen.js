@@ -26,7 +26,7 @@ const RecommendDetailScreen = ({history,match}) => {
   }
 
   const addToCartHandler = () => {
-    history.push(`/cart/${match.params.id}`)
+    history.push(`/bookmark/${match.params.id}`)
   }
 
   useEffect(() => {

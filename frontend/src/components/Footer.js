@@ -35,13 +35,13 @@ const Footer = () => {
             <h3>Follow Us</h3>
             <p>Contact us through social media</p>
             <div className='column'>
-              <Link to='https://www.facebook.com'>
+              <Link>
                 <i className='fab fa-facebook fa-sm'></i>
               </Link>
-              <Link to='https://www.twitter.com'>
+              <Link>
                 <i className='fab fa-twitter fa-sm'></i>
               </Link>
-              <Link to='https://www.instagram.com'>
+              <Link>
                 <i className='fab fa-instagram fa-sm'></i>
               </Link>
             </div>
